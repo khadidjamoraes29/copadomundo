@@ -1,0 +1,965 @@
+home_team,away_team,Attendance,Round,Host,Year,Date,home_score,away_score,result,home_rank,home_points,confederation_x,away_rank,away_points,confederation_y,ranking_difference,points_difference,home_team_power,away_team_power,team_power_difference
+France,Mexico,4444,Group stage,Uruguay,1930,1930-07-13,4,1,home_win,,,,,,,,,69.714,64.15167115384617,5.562328846153832
+United States,Belgium,18346,Group stage,Uruguay,1930,1930-07-13,3,0,home_win,,,,,,,,,62.40566538461539,67.93338076923077,-5.527715384615377
+Yugoslavia,Brazil,24059,Group stage,Uruguay,1930,1930-07-14,2,1,home_win,,,,,,,,,,71.18102653846155,
+Romania,Peru,2549,Group stage,Uruguay,1930,1930-07-14,3,1,home_win,,,,,,,,,59.02940903846154,58.05016461538462,0.9792444230769206
+Argentina,France,23409,Group stage,Uruguay,1930,1930-07-15,1,0,home_win,,,,,,,,,67.99343846153849,69.714,-1.72056153846151
+Chile,Mexico,9249,Group stage,Uruguay,1930,1930-07-16,3,0,home_win,,,,,,,,,63.52331596153847,64.15167115384617,-0.6283551923076942
+Yugoslavia,Bolivia,18306,Group stage,Uruguay,1930,1930-07-17,4,0,home_win,,,,,,,,,,52.41948538461538,
+United States,Paraguay,18306,Group stage,Uruguay,1930,1930-07-17,3,0,home_win,,,,,,,,,62.40566538461539,61.38765480769232,1.0180105769230678
+Uruguay,Peru,57735,Group stage,Uruguay,1930,1930-07-18,1,0,home_win,,,,,,,,,65.00322653846155,58.05016461538462,6.95306192307693
+Argentina,Mexico,42100,Group stage,Uruguay,1930,1930-07-19,6,3,home_win,,,,,,,,,67.99343846153849,64.15167115384617,3.841767307692322
+Chile,France,2000,Group stage,Uruguay,1930,1930-07-19,1,0,home_win,,,,,,,,,63.52331596153847,69.714,-6.1906840384615265
+Paraguay,Belgium,12000,Group stage,Uruguay,1930,1930-07-20,1,0,home_win,,,,,,,,,61.38765480769232,67.93338076923077,-6.545725961538444
+Brazil,Bolivia,25466,Group stage,Uruguay,1930,1930-07-20,4,0,home_win,,,,,,,,,71.18102653846155,52.41948538461538,18.761541153846174
+Uruguay,Romania,70022,Group stage,Uruguay,1930,1930-07-21,4,0,home_win,,,,,,,,,65.00322653846155,59.02940903846154,5.97381750000001
+Argentina,Chile,41459,Group stage,Uruguay,1930,1930-07-22,3,1,home_win,,,,,,,,,67.99343846153849,63.52331596153847,4.470122500000016
+Argentina,United States,72886,Semi-finals,Uruguay,1930,1930-07-26,6,1,home_win,,,,,,,,,67.99343846153849,62.40566538461539,5.587773076923099
+Uruguay,Yugoslavia,79867,Semi-finals,Uruguay,1930,1930-07-27,6,1,home_win,,,,,,,,,65.00322653846155,,
+Uruguay,Argentina,68346,Final,Uruguay,1930,1930-07-30,4,2,home_win,,,,,,,,,65.00322653846155,67.99343846153849,-2.9902119230769415
+Czechoslovakia,Romania,9000,Round of 16,Italy,1934,1934-05-27,2,1,home_win,,,,,,,,,,59.02940903846154,
+Hungary,Egypt,9000,Round of 16,Italy,1934,1934-05-27,4,2,home_win,,,,,,,,,57.00994596153846,57.44508059615386,-0.4351346346153946
+Austria,France,16000,Round of 16,Italy,1934,1934-05-27,3,2,home_win,,,,,,,,,63.952364230769234,69.714,-5.7616357692307645
+Spain,Brazil,21000,Round of 16,Italy,1934,1934-05-27,3,1,home_win,,,,,,,,,71.50423846153845,71.18102653846155,0.3232119230768973
+Sweden,Argentina,14000,Round of 16,Italy,1934,1934-05-27,3,2,home_win,,,,,,,,,62.87979807692308,67.99343846153849,-5.113640384615408
+Italy,United States,25000,Round of 16,Italy,1934,1934-05-27,7,1,home_win,,,,,,,,,68.45827307692308,62.40566538461539,6.052607692307689
+Switzerland,Netherlands,33000,Round of 16,Italy,1934,1934-05-27,3,2,home_win,,,,,,,,,64.68190576923077,66.82286346153847,-2.1409576923077083
+Germany,Belgium,8000,Round of 16,Italy,1934,1934-05-27,5,2,home_win,,,,,,,,,69.83241730769232,67.93338076923077,1.8990365384615586
+Germany,Sweden,3000,Quarter-finals,Italy,1934,1934-05-31,2,1,home_win,,,,,,,,,69.83241730769232,62.87979807692308,6.952619230769244
+Italy,Spain,35000,Quarter-finals,Italy,1934,1934-05-31,1,1,draw,,,,,,,,,68.45827307692308,71.50423846153845,-3.0459653846153714
+Czechoslovakia,Switzerland,12000,Quarter-finals,Italy,1934,1934-05-31,3,2,home_win,,,,,,,,,,64.68190576923077,
+Austria,Hungary,23000,Quarter-finals,Italy,1934,1934-05-31,2,1,home_win,,,,,,,,,63.952364230769234,57.00994596153846,6.942418269230771
+Italy,Spain,43000,Quarter-finals,Italy,1934,1934-06-01,1,0,home_win,,,,,,,,,68.45827307692308,71.50423846153845,-3.0459653846153714
+Czechoslovakia,Germany,15000,Semi-finals,Italy,1934,1934-06-03,3,1,home_win,,,,,,,,,,69.83241730769232,
+Italy,Austria,35000,Semi-finals,Italy,1934,1934-06-03,1,0,home_win,,,,,,,,,68.45827307692308,63.952364230769234,4.505908846153844
+Germany,Austria,7000,Third-place match,Italy,1934,1934-06-07,3,2,home_win,,,,,,,,,69.83241730769232,63.952364230769234,5.88005307692309
+Italy,Czechoslovakia,55000,Final,Italy,1934,1934-06-10,2,1,home_win,,,,,,,,,68.45827307692308,,
+Switzerland,Germany,27152,Round of 16,France,1938,1938-06-04,1,1,draw,,,,,,,,,64.68190576923077,69.83241730769232,-5.150511538461558
+Czechoslovakia,Netherlands,11000,Round of 16,France,1938,1938-06-05,3,0,home_win,,,,,,,,,,66.82286346153847,
+Brazil,Poland,13452,Round of 16,France,1938,1938-06-05,6,5,home_win,,,,,,,,,71.18102653846155,61.76560730769231,9.415419230769245
+France,Belgium,30454,Round of 16,France,1938,1938-06-05,3,1,home_win,,,,,,,,,69.714,67.93338076923077,1.7806192307692328
+Hungary,Dutch East Indies,9000,Round of 16,France,1938,1938-06-05,6,0,home_win,,,,,,,,,57.00994596153846,,
+Cuba,Romania,7000,Round of 16,France,1938,1938-06-05,3,3,draw,,,,,,,,,50.42030499999999,59.02940903846154,-8.609104038461545
+Italy,Norway,19000,Round of 16,France,1938,1938-06-05,2,1,home_win,,,,,,,,,68.45827307692308,61.37427692307692,7.083996153846158
+Cuba,Romania,8000,Round of 16,France,1938,1938-06-09,2,1,home_win,,,,,,,,,50.42030499999999,59.02940903846154,-8.609104038461545
+Switzerland,Germany,20025,Round of 16,France,1938,1938-06-09,4,2,home_win,,,,,,,,,64.68190576923077,69.83241730769232,-5.150511538461558
+Sweden,Cuba,7000,Quarter-finals,France,1938,1938-06-12,8,0,home_win,,,,,,,,,62.87979807692308,50.42030499999999,12.459493076923088
+Italy,France,58455,Quarter-finals,France,1938,1938-06-12,3,1,home_win,,,,,,,,,68.45827307692308,69.714,-1.2557269230769208
+Hungary,Switzerland,15000,Quarter-finals,France,1938,1938-06-12,2,0,home_win,,,,,,,,,57.00994596153846,64.68190576923077,-7.6719598076923035
+Brazil,Czechoslovakia,22021,Quarter-finals,France,1938,1938-06-12,1,1,draw,,,,,,,,,71.18102653846155,,
+Brazil,Czechoslovakia,18141,Quarter-finals,France,1938,1938-06-14,2,1,home_win,,,,,,,,,71.18102653846155,,
+Italy,Brazil,33000,Semi-finals,France,1938,1938-06-16,2,1,home_win,,,,,,,,,68.45827307692308,71.18102653846155,-2.722753461538474
+Hungary,Sweden,20000,Semi-finals,France,1938,1938-06-16,5,1,home_win,,,,,,,,,57.00994596153846,62.87979807692308,-5.869852115384617
+Italy,Hungary,45000,Final,France,1938,1938-06-19,4,2,home_win,,,,,,,,,68.45827307692308,57.00994596153846,11.448327115384615
+Brazil,Sweden,12000,Third-place match,France,1938,1938-06-19,4,2,home_win,,,,,,,,,71.18102653846155,62.87979807692308,8.301228461538471
+Brazil,Mexico,81649,Group stage,Brazil,1950,1950-06-24,4,0,home_win,,,,,,,,,71.18102653846155,64.15167115384617,7.029355384615386
+Yugoslavia,Switzerland,7336,Group stage,Brazil,1950,1950-06-25,3,0,home_win,,,,,,,,,,64.68190576923077,
+Spain,United States,9511,Group stage,Brazil,1950,1950-06-25,3,1,home_win,,,,,,,,,71.50423846153845,62.40566538461539,9.09857307692306
+England,Chile,29703,Group stage,Brazil,1950,1950-06-25,2,0,home_win,,,,,,,,,68.18326346153846,63.52331596153847,4.659947499999987
+Sweden,Italy,36502,Group stage,Brazil,1950,1950-06-25,3,2,home_win,,,,,,,,,62.87979807692308,68.45827307692308,-5.578474999999997
+Brazil,Switzerland,42032,Group stage,Brazil,1950,1950-06-28,2,2,draw,,,,,,,,,71.18102653846155,64.68190576923077,6.499120769230785
+Yugoslavia,Mexico,11078,Group stage,Brazil,1950,1950-06-28,4,1,home_win,,,,,,,,,,64.15167115384617,
+Spain,Chile,19790,Group stage,Brazil,1950,1950-06-29,2,0,home_win,,,,,,,,,71.50423846153845,63.52331596153847,7.980922499999977
+Sweden,Paraguay,7903,Group stage,Brazil,1950,1950-06-29,2,2,draw,,,,,,,,,62.87979807692308,61.38765480769232,1.492143269230759
+United States,England,10151,Group stage,Brazil,1950,1950-06-29,1,0,home_win,,,,,,,,,62.40566538461539,68.18326346153846,-5.77759807692307
+Brazil,Yugoslavia,142429,Group stage,Brazil,1950,1950-07-01,2,0,home_win,,,,,,,,,71.18102653846155,,
+Switzerland,Mexico,3580,Group stage,Brazil,1950,1950-07-02,2,1,home_win,,,,,,,,,64.68190576923077,64.15167115384617,0.5302346153846003
+Spain,England,74462,Group stage,Brazil,1950,1950-07-02,1,0,home_win,,,,,,,,,71.50423846153845,68.18326346153846,3.32097499999999
+Uruguay,Bolivia,5284,Group stage,Brazil,1950,1950-07-02,8,0,home_win,,,,,,,,,65.00322653846155,52.41948538461538,12.58374115384617
+Italy,Paraguay,25811,Group stage,Brazil,1950,1950-07-02,2,0,home_win,,,,,,,,,68.45827307692308,61.38765480769232,7.070618269230756
+Chile,United States,8501,Group stage,Brazil,1950,1950-07-02,5,2,home_win,,,,,,,,,63.52331596153847,62.40566538461539,1.117650576923083
+Uruguay,Spain,44802,Final stage,Brazil,1950,1950-07-09,2,2,draw,,,,,,,,,65.00322653846155,71.50423846153845,-6.501011923076902
+Brazil,Sweden,138886,Final stage,Brazil,1950,1950-07-09,7,1,home_win,,,,,,,,,71.18102653846155,62.87979807692308,8.301228461538471
+Uruguay,Sweden,7987,Final stage,Brazil,1950,1950-07-13,3,2,home_win,,,,,,,,,65.00322653846155,62.87979807692308,2.1234284615384666
+Brazil,Spain,152772,Final stage,Brazil,1950,1950-07-13,6,1,home_win,,,,,,,,,71.18102653846155,71.50423846153845,-0.3232119230768973
+Uruguay,Brazil,173850,Final stage,Brazil,1950,1950-07-16,2,1,home_win,,,,,,,,,65.00322653846155,71.18102653846155,-6.177800000000005
+Sweden,Spain,11227,Final stage,Brazil,1950,1950-07-16,3,1,home_win,,,,,,,,,62.87979807692308,71.50423846153845,-8.624440384615369
+Uruguay,Czechoslovakia,20500,Group stage,Switzerland,1954,1954-06-16,2,0,home_win,,,,,,,,,65.00322653846155,,
+Austria,Scotland,25000,Group stage,Switzerland,1954,1954-06-16,1,0,home_win,,,,,,,,,63.952364230769234,62.71133875,1.2410254807692311
+Brazil,Mexico,13470,Group stage,Switzerland,1954,1954-06-16,5,0,home_win,,,,,,,,,71.18102653846155,64.15167115384617,7.029355384615386
+Yugoslavia,France,16000,Group stage,Switzerland,1954,1954-06-16,1,0,home_win,,,,,,,,,,69.714,
+England,Belgium,14000,Group stage,Switzerland,1954,1954-06-17,4,4,draw,,,,,,,,,68.18326346153846,67.93338076923077,0.24988269230769333
+Germany,Turkey,28000,Group stage,Switzerland,1954,1954-06-17,4,1,home_win,,,,,,,,,69.83241730769232,63.71142807692308,6.120989230769247
+Hungary,South Korea,13000,Group stage,Switzerland,1954,1954-06-17,9,0,home_win,,,,,,,,,57.00994596153846,,
+Switzerland,Italy,43000,Group stage,Switzerland,1954,1954-06-17,2,1,home_win,,,,,,,,,64.68190576923077,68.45827307692308,-3.776367307692311
+France,Mexico,19000,Group stage,Switzerland,1954,1954-06-19,3,2,home_win,,,,,,,,,69.714,64.15167115384617,5.562328846153832
+Austria,Czechoslovakia,26000,Group stage,Switzerland,1954,1954-06-19,5,0,home_win,,,,,,,,,63.952364230769234,,
+Brazil,Yugoslavia,24637,Group stage,Switzerland,1954,1954-06-19,1,1,draw,,,,,,,,,71.18102653846155,,
+Uruguay,Scotland,34000,Group stage,Switzerland,1954,1954-06-19,7,0,home_win,,,,,,,,,65.00322653846155,62.71133875,2.291887788461544
+Turkey,South Korea,4000,Group stage,Switzerland,1954,1954-06-20,7,0,home_win,,,,,,,,,63.71142807692308,,
+Hungary,Germany,56000,Group stage,Switzerland,1954,1954-06-20,8,3,home_win,,,,,,,,,57.00994596153846,69.83241730769232,-12.822471346153861
+Switzerland,England,43500,Group stage,Switzerland,1954,1954-06-20,0,2,away_win,,,,,,,,,64.68190576923077,68.18326346153846,-3.5013576923076926
+Italy,Belgium,24000,Group stage,Switzerland,1954,1954-06-20,4,1,home_win,,,,,,,,,68.45827307692308,67.93338076923077,0.524892307692312
+Switzerland,Italy,30000,Group stage play-off,Switzerland,1954,1954-06-23,4,1,home_win,,,,,,,,,64.68190576923077,68.45827307692308,-3.776367307692311
+Germany,Turkey,17000,Group stage play-off,Switzerland,1954,1954-06-23,7,2,home_win,,,,,,,,,69.83241730769232,63.71142807692308,6.120989230769247
+Switzerland,Austria,35000,Quarter-finals,Switzerland,1954,1954-06-26,5,7,away_win,,,,,,,,,64.68190576923077,63.952364230769234,0.7295415384615325
+Uruguay,England,28000,Quarter-finals,Switzerland,1954,1954-06-26,4,2,home_win,,,,,,,,,65.00322653846155,68.18326346153846,-3.180036923076912
+Hungary,Brazil,40000,Quarter-finals,Switzerland,1954,1954-06-27,4,2,home_win,,,,,,,,,57.00994596153846,71.18102653846155,-14.171080576923089
+Germany,Yugoslavia,17000,Quarter-finals,Switzerland,1954,1954-06-27,2,0,home_win,,,,,,,,,69.83241730769232,,
+Germany,Austria,58000,Semi-finals,Switzerland,1954,1954-06-30,6,1,home_win,,,,,,,,,69.83241730769232,63.952364230769234,5.88005307692309
+Hungary,Uruguay,45000,Semi-finals,Switzerland,1954,1954-06-30,4,2,home_win,,,,,,,,,57.00994596153846,65.00322653846155,-7.993280576923084
+Austria,Uruguay,32000,Third-place match,Switzerland,1954,1954-07-03,3,1,home_win,,,,,,,,,63.952364230769234,65.00322653846155,-1.050862307692313
+Germany,Hungary,62500,Final,Switzerland,1954,1954-07-04,3,2,home_win,,,,,,,,,69.83241730769232,57.00994596153846,12.822471346153861
+Sweden,Mexico,34107,Group stage,Sweden,1958,1958-06-08,3,0,home_win,,,,,,,,,62.87979807692308,64.15167115384617,-1.271873076923086
+Northern Ireland,Czechoslovakia,10647,Group stage,Sweden,1958,1958-06-08,1,0,home_win,,,,,,,,,57.40677173076923,,
+Hungary,Wales,15343,Group stage,Sweden,1958,1958-06-08,1,1,draw,,,,,,,,,57.00994596153846,59.99270048076925,-2.982754519230788
+Brazil,Austria,17788,Group stage,Sweden,1958,1958-06-08,3,0,home_win,,,,,,,,,71.18102653846155,63.952364230769234,7.228662307692318
+Soviet Union,England,49348,Group stage,Sweden,1958,1958-06-08,2,2,draw,,,,,,,,,,68.18326346153846,
+France,Paraguay,16518,Group stage,Sweden,1958,1958-06-08,7,3,home_win,,,,,,,,,69.714,61.38765480769232,8.326345192307677
+Argentina,West Germany,31156,Group stage,Sweden,1958,1958-06-08,1,3,away_win,,,,,,,,,67.99343846153849,,
+Yugoslavia,Scotland,9591,Group stage,Sweden,1958,1958-06-08,1,1,draw,,,,,,,,,,62.71133875,
+Mexico,Wales,15150,Group stage,Sweden,1958,1958-06-11,1,1,draw,,,,,,,,,64.15167115384617,59.99270048076925,4.158970673076915
+Brazil,England,40895,Group stage,Sweden,1958,1958-06-11,0,0,draw,,,,,,,,,71.18102653846155,68.18326346153846,2.9977630769230927
+Paraguay,Scotland,11665,Group stage,Sweden,1958,1958-06-11,3,2,home_win,,,,,,,,,61.38765480769232,62.71133875,-1.3236839423076816
+Yugoslavia,France,12217,Group stage,Sweden,1958,1958-06-11,3,2,home_win,,,,,,,,,,69.714,
+Argentina,Northern Ireland,14174,Group stage,Sweden,1958,1958-06-11,3,1,home_win,,,,,,,,,67.99343846153849,57.40677173076923,10.58666673076926
+West Germany,Czechoslovakia,25000,Group stage,Sweden,1958,1958-06-11,2,2,draw,,,,,,,,,,,
+Soviet Union,Austria,21239,Group stage,Sweden,1958,1958-06-11,2,0,home_win,,,,,,,,,,63.952364230769234,
+Sweden,Hungary,38850,Group stage,Sweden,1958,1958-06-12,2,1,home_win,,,,,,,,,62.87979807692308,57.00994596153846,5.869852115384617
+Sweden,Wales,30287,Group stage,Sweden,1958,1958-06-15,0,0,draw,,,,,,,,,62.87979807692308,59.99270048076925,2.887097596153829
+Czechoslovakia,Argentina,16418,Group stage,Sweden,1958,1958-06-15,6,1,home_win,,,,,,,,,,67.99343846153849,
+Paraguay,Yugoslavia,13103,Group stage,Sweden,1958,1958-06-15,3,3,draw,,,,,,,,,61.38765480769232,,
+Brazil,Soviet Union,50928,Group stage,Sweden,1958,1958-06-15,2,0,home_win,,,,,,,,,71.18102653846155,,
+England,Austria,15872,Group stage,Sweden,1958,1958-06-15,2,2,draw,,,,,,,,,68.18326346153846,63.952364230769234,4.230899230769225
+France,Scotland,13554,Group stage,Sweden,1958,1958-06-15,2,1,home_win,,,,,,,,,69.714,62.71133875,7.002661249999996
+West Germany,Northern Ireland,21990,Group stage,Sweden,1958,1958-06-15,2,2,draw,,,,,,,,,,57.40677173076923,
+Hungary,Mexico,13300,Group stage,Sweden,1958,1958-06-15,4,0,home_win,,,,,,,,,57.00994596153846,64.15167115384617,-7.141725192307703
+Northern Ireland,Czechoslovakia,6196,Group stage play-off,Sweden,1958,1958-06-17,2,1,home_win,,,,,,,,,57.40677173076923,,
+Soviet Union,England,23182,Group stage play-off,Sweden,1958,1958-06-17,1,0,home_win,,,,,,,,,,68.18326346153846,
+Wales,Hungary,2823,Group stage play-off,Sweden,1958,1958-06-17,2,1,home_win,,,,,,,,,59.99270048076925,57.00994596153846,2.982754519230788
+Sweden,Soviet Union,31900,Quarter-finals,Sweden,1958,1958-06-19,2,0,home_win,,,,,,,,,62.87979807692308,,
+Brazil,Wales,25923,Quarter-finals,Sweden,1958,1958-06-19,1,0,home_win,,,,,,,,,71.18102653846155,59.99270048076925,11.1883260576923
+West Germany,Yugoslavia,20055,Quarter-finals,Sweden,1958,1958-06-19,1,0,home_win,,,,,,,,,,,
+France,Northern Ireland,11800,Quarter-finals,Sweden,1958,1958-06-19,4,0,home_win,,,,,,,,,69.714,57.40677173076923,12.30722826923077
+Brazil,France,27100,Semi-finals,Sweden,1958,1958-06-24,5,2,home_win,,,,,,,,,71.18102653846155,69.714,1.4670265384615533
+Sweden,West Germany,49471,Semi-finals,Sweden,1958,1958-06-24,3,1,home_win,,,,,,,,,62.87979807692308,,
+France,West Germany,32483,Third-place match,Sweden,1958,1958-06-28,6,3,home_win,,,,,,,,,69.714,,
+Brazil,Sweden,49737,Final,Sweden,1958,1958-06-29,5,2,home_win,,,,,,,,,71.18102653846155,62.87979807692308,8.301228461538471
+Uruguay,Colombia,7908,Group stage,Chile,1962,1962-05-30,2,1,home_win,,,,,,,,,65.00322653846155,64.20907144230769,0.7941550961538582
+Chile,Switzerland,65006,Group stage,Chile,1962,1962-05-30,3,1,home_win,,,,,,,,,63.52331596153847,64.68190576923077,-1.1585898076922945
+Argentina,Bulgaria,7134,Group stage,Chile,1962,1962-05-30,1,0,home_win,,,,,,,,,67.99343846153849,52.81303951923076,15.180398942307725
+Brazil,Mexico,10484,Group stage,Chile,1962,1962-05-30,2,0,home_win,,,,,,,,,71.18102653846155,64.15167115384617,7.029355384615386
+Czechoslovakia,Spain,12700,Group stage,Chile,1962,1962-05-31,1,0,home_win,,,,,,,,,,71.50423846153845,
+Hungary,England,7938,Group stage,Chile,1962,1962-05-31,2,1,home_win,,,,,,,,,57.00994596153846,68.18326346153846,-11.173317499999996
+West Germany,Italy,65440,Group stage,Chile,1962,1962-05-31,0,0,draw,,,,,,,,,,68.45827307692308,
+Soviet Union,Yugoslavia,9622,Group stage,Chile,1962,1962-05-31,2,0,home_win,,,,,,,,,,,
+Yugoslavia,Uruguay,8829,Group stage,Chile,1962,1962-06-02,3,1,home_win,,,,,,,,,,65.00322653846155,
+England,Argentina,9794,Group stage,Chile,1962,1962-06-02,3,1,home_win,,,,,,,,,68.18326346153846,67.99343846153849,0.1898249999999706
+Brazil,Czechoslovakia,14903,Group stage,Chile,1962,1962-06-02,0,0,draw,,,,,,,,,71.18102653846155,,
+Chile,Italy,66057,Group stage,Chile,1962,1962-06-02,2,0,home_win,,,,,,,,,63.52331596153847,68.45827307692308,-4.934957115384606
+West Germany,Switzerland,64922,Group stage,Chile,1962,1962-06-03,2,1,home_win,,,,,,,,,,64.68190576923077,
+Hungary,Bulgaria,7442,Group stage,Chile,1962,1962-06-03,6,1,home_win,,,,,,,,,57.00994596153846,52.81303951923076,4.1969064423077
+Soviet Union,Colombia,8040,Group stage,Chile,1962,1962-06-03,4,4,draw,,,,,,,,,,64.20907144230769,
+Spain,Mexico,11875,Group stage,Chile,1962,1962-06-03,1,0,home_win,,,,,,,,,71.50423846153845,64.15167115384617,7.352567307692283
+West Germany,Chile,67224,Group stage,Chile,1962,1962-06-06,2,0,home_win,,,,,,,,,,63.52331596153847,
+Hungary,Argentina,7945,Group stage,Chile,1962,1962-06-06,0,0,draw,,,,,,,,,57.00994596153846,67.99343846153849,-10.983492500000025
+Brazil,Spain,18715,Group stage,Chile,1962,1962-06-06,2,1,home_win,,,,,,,,,71.18102653846155,71.50423846153845,-0.3232119230768973
+Soviet Union,Uruguay,9973,Group stage,Chile,1962,1962-06-06,2,1,home_win,,,,,,,,,,65.00322653846155,
+Yugoslavia,Colombia,7167,Group stage,Chile,1962,1962-06-07,5,0,home_win,,,,,,,,,,64.20907144230769,
+Italy,Switzerland,59828,Group stage,Chile,1962,1962-06-07,3,0,home_win,,,,,,,,,68.45827307692308,64.68190576923077,3.776367307692311
+Mexico,Czechoslovakia,10648,Group stage,Chile,1962,1962-06-07,3,1,home_win,,,,,,,,,64.15167115384617,,
+England,Bulgaria,5700,Group stage,Chile,1962,1962-06-07,0,0,draw,,,,,,,,,68.18326346153846,52.81303951923076,15.370223942307696
+Yugoslavia,West Germany,63324,Quarter-finals,Chile,1962,1962-06-10,1,0,home_win,,,,,,,,,,,
+Czechoslovakia,Hungary,11690,Quarter-finals,Chile,1962,1962-06-10,1,0,home_win,,,,,,,,,,57.00994596153846,
+Brazil,England,17736,Quarter-finals,Chile,1962,1962-06-10,3,1,home_win,,,,,,,,,71.18102653846155,68.18326346153846,2.9977630769230927
+Chile,Soviet Union,17268,Quarter-finals,Chile,1962,1962-06-10,2,1,home_win,,,,,,,,,63.52331596153847,,
+Czechoslovakia,Yugoslavia,5890,Semi-finals,Chile,1962,1962-06-13,3,1,home_win,,,,,,,,,,,
+Brazil,Chile,76594,Semi-finals,Chile,1962,1962-06-13,4,2,home_win,,,,,,,,,71.18102653846155,63.52331596153847,7.65771057692308
+Chile,Yugoslavia,66697,Third-place match,Chile,1962,1962-06-16,1,0,home_win,,,,,,,,,63.52331596153847,,
+Brazil,Czechoslovakia,68679,Final,Chile,1962,1962-06-17,3,1,home_win,,,,,,,,,71.18102653846155,,
+England,Uruguay,87148,Group stage,England,1966,1966-07-11,0,0,draw,,,,,,,,,68.18326346153846,65.00322653846155,3.180036923076912
+Soviet Union,North Korea,23006,Group stage,England,1966,1966-07-12,3,0,home_win,,,,,,,,,,,
+Brazil,Bulgaria,47308,Group stage,England,1966,1966-07-12,2,0,home_win,,,,,,,,,71.18102653846155,52.81303951923076,18.36798701923079
+West Germany,Switzerland,36127,Group stage,England,1966,1966-07-12,5,0,home_win,,,,,,,,,,64.68190576923077,
+Portugal,Hungary,29886,Group stage,England,1966,1966-07-13,3,1,home_win,,,,,,,,,68.66904192307692,57.00994596153846,11.659095961538455
+Italy,Chile,27199,Group stage,England,1966,1966-07-13,2,0,home_win,,,,,,,,,68.45827307692308,63.52331596153847,4.934957115384606
+France,Mexico,69237,Group stage,England,1966,1966-07-13,1,1,draw,,,,,,,,,69.714,64.15167115384617,5.562328846153832
+Argentina,Spain,42738,Group stage,England,1966,1966-07-13,2,1,home_win,,,,,,,,,67.99343846153849,71.50423846153845,-3.5107999999999606
+North Korea,Chile,13792,Group stage,England,1966,1966-07-15,1,1,draw,,,,,,,,,,63.52331596153847,
+Hungary,Brazil,51387,Group stage,England,1966,1966-07-15,3,1,home_win,,,,,,,,,57.00994596153846,71.18102653846155,-14.171080576923089
+Uruguay,France,45662,Group stage,England,1966,1966-07-15,2,1,home_win,,,,,,,,,65.00322653846155,69.714,-4.710773461538452
+Spain,Switzerland,32028,Group stage,England,1966,1966-07-15,2,1,home_win,,,,,,,,,71.50423846153845,64.68190576923077,6.822332692307683
+Soviet Union,Italy,27793,Group stage,England,1966,1966-07-16,1,0,home_win,,,,,,,,,,68.45827307692308,
+West Germany,Argentina,46587,Group stage,England,1966,1966-07-16,0,0,draw,,,,,,,,,,67.99343846153849,
+England,Mexico,92570,Group stage,England,1966,1966-07-16,2,0,home_win,,,,,,,,,68.18326346153846,64.15167115384617,4.031592307692293
+Portugal,Bulgaria,25438,Group stage,England,1966,1966-07-16,3,0,home_win,,,,,,,,,68.66904192307692,52.81303951923076,15.856002403846155
+Portugal,Brazil,58479,Group stage,England,1966,1966-07-19,3,1,home_win,,,,,,,,,68.66904192307692,71.18102653846155,-2.511984615384634
+Uruguay,Mexico,61112,Group stage,England,1966,1966-07-19,0,0,draw,,,,,,,,,65.00322653846155,64.15167115384617,0.8515553846153807
+North Korea,Italy,17829,Group stage,England,1966,1966-07-19,1,0,home_win,,,,,,,,,,68.45827307692308,
+Argentina,Switzerland,32127,Group stage,England,1966,1966-07-19,2,0,home_win,,,,,,,,,67.99343846153849,64.68190576923077,3.311532692307722
+Soviet Union,Chile,16027,Group stage,England,1966,1966-07-20,2,1,home_win,,,,,,,,,,63.52331596153847,
+West Germany,Spain,42187,Group stage,England,1966,1966-07-20,2,1,home_win,,,,,,,,,,71.50423846153845,
+Hungary,Bulgaria,24129,Group stage,England,1966,1966-07-20,3,1,home_win,,,,,,,,,57.00994596153846,52.81303951923076,4.1969064423077
+England,France,98270,Group stage,England,1966,1966-07-20,2,0,home_win,,,,,,,,,68.18326346153846,69.714,-1.5307365384615395
+West Germany,Uruguay,40007,Quarter-finals,England,1966,1966-07-23,4,0,home_win,,,,,,,,,,65.00322653846155,
+Soviet Union,Hungary,26844,Quarter-finals,England,1966,1966-07-23,2,1,home_win,,,,,,,,,,57.00994596153846,
+England,Argentina,90584,Quarter-finals,England,1966,1966-07-23,1,0,home_win,,,,,,,,,68.18326346153846,67.99343846153849,0.1898249999999706
+Portugal,North Korea,40248,Quarter-finals,England,1966,1966-07-23,5,3,home_win,,,,,,,,,68.66904192307692,,
+West Germany,Soviet Union,38273,Semi-finals,England,1966,1966-07-25,2,1,home_win,,,,,,,,,,,
+England,Portugal,94493,Semi-finals,England,1966,1966-07-26,2,1,home_win,,,,,,,,,68.18326346153846,68.66904192307692,-0.48577846153845883
+Portugal,Soviet Union,87696,Third-place match,England,1966,1966-07-28,2,1,home_win,,,,,,,,,68.66904192307692,,
+England,West Germany,96924,Final,England,1966,1966-07-30,4,2,home_win,,,,,,,,,68.18326346153846,,
+Mexico,Soviet Union,107160,Group stage,Mexico,1970,1970-05-31,0,0,draw,,,,,,,,,64.15167115384617,,
+Uruguay,Israel,20654,Group stage,Mexico,1970,1970-06-02,2,0,home_win,,,,,,,,,65.00322653846155,56.33247583333335,8.6707507051282
+Peru,Bulgaria,13765,Group stage,Mexico,1970,1970-06-02,3,2,home_win,,,,,,,,,58.05016461538462,52.81303951923076,5.237125096153854
+England,Romania,50560,Group stage,Mexico,1970,1970-06-02,1,0,home_win,,,,,,,,,68.18326346153846,59.02940903846154,9.153854423076922
+West Germany,Morocco,12942,Group stage,Mexico,1970,1970-06-03,2,1,home_win,,,,,,,,,,62.09039384615384,
+Italy,Sweden,13433,Group stage,Mexico,1970,1970-06-03,1,0,home_win,,,,,,,,,68.45827307692308,62.87979807692308,5.578474999999997
+Brazil,Czechoslovakia,52897,Group stage,Mexico,1970,1970-06-03,4,1,home_win,,,,,,,,,71.18102653846155,,
+Belgium,El Salvador,92205,Group stage,Mexico,1970,1970-06-03,3,0,home_win,,,,,,,,,67.93338076923077,54.33969125,13.593689519230765
+Peru,Morocco,13537,Group stage,Mexico,1970,1970-06-06,3,0,home_win,,,,,,,,,58.05016461538462,62.09039384615384,-4.040229230769221
+Soviet Union,Belgium,95261,Group stage,Mexico,1970,1970-06-06,4,1,home_win,,,,,,,,,,67.93338076923077,
+Uruguay,Italy,29968,Group stage,Mexico,1970,1970-06-06,0,0,draw,,,,,,,,,65.00322653846155,68.45827307692308,-3.4550465384615308
+Romania,Czechoslovakia,56818,Group stage,Mexico,1970,1970-06-06,2,1,home_win,,,,,,,,,59.02940903846154,,
+Mexico,El Salvador,103058,Group stage,Mexico,1970,1970-06-07,4,0,home_win,,,,,,,,,64.15167115384617,54.33969125,9.811979903846165
+West Germany,Bulgaria,12710,Group stage,Mexico,1970,1970-06-07,5,2,home_win,,,,,,,,,,52.81303951923076,
+Sweden,Israel,9624,Group stage,Mexico,1970,1970-06-07,1,1,draw,,,,,,,,,62.87979807692308,56.33247583333335,6.547322243589733
+Brazil,England,66843,Group stage,Mexico,1970,1970-06-07,1,0,home_win,,,,,,,,,71.18102653846155,68.18326346153846,2.9977630769230927
+Soviet Union,El Salvador,89979,Group stage,Mexico,1970,1970-06-10,2,0,home_win,,,,,,,,,,54.33969125,
+Sweden,Uruguay,18163,Group stage,Mexico,1970,1970-06-10,1,0,home_win,,,,,,,,,62.87979807692308,65.00322653846155,-2.1234284615384666
+Brazil,Romania,50804,Group stage,Mexico,1970,1970-06-10,3,2,home_win,,,,,,,,,71.18102653846155,59.02940903846154,12.151617500000015
+West Germany,Peru,17875,Group stage,Mexico,1970,1970-06-10,3,1,home_win,,,,,,,,,,58.05016461538462,
+England,Czechoslovakia,49292,Group stage,Mexico,1970,1970-06-11,1,0,home_win,,,,,,,,,68.18326346153846,,
+Bulgaria,Morocco,12299,Group stage,Mexico,1970,1970-06-11,1,1,draw,,,,,,,,,52.81303951923076,62.09039384615384,-9.277354326923074
+Italy,Israel,9890,Group stage,Mexico,1970,1970-06-11,0,0,draw,,,,,,,,,68.45827307692308,56.33247583333335,12.12579724358973
+Mexico,Belgium,108192,Group stage,Mexico,1970,1970-06-11,1,0,home_win,,,,,,,,,64.15167115384617,67.93338076923077,-3.7817096153845995
+West Germany,England,23357,Quarter-finals,Mexico,1970,1970-06-14,3,2,home_win,,,,,,,,,,68.18326346153846,
+Uruguay,Soviet Union,26085,Quarter-finals,Mexico,1970,1970-06-14,1,0,home_win,,,,,,,,,65.00322653846155,,
+Italy,Mexico,26851,Quarter-finals,Mexico,1970,1970-06-14,4,1,home_win,,,,,,,,,68.45827307692308,64.15167115384617,4.3066019230769115
+Brazil,Peru,54233,Quarter-finals,Mexico,1970,1970-06-14,4,2,home_win,,,,,,,,,71.18102653846155,58.05016461538462,13.130861923076935
+Brazil,Uruguay,51261,Semi-finals,Mexico,1970,1970-06-17,3,1,home_win,,,,,,,,,71.18102653846155,65.00322653846155,6.177800000000005
+Italy,West Germany,102444,Semi-finals,Mexico,1970,1970-06-17,4,3,home_win,,,,,,,,,68.45827307692308,,
+West Germany,Uruguay,104403,Third-place match,Mexico,1970,1970-06-20,1,0,home_win,,,,,,,,,,65.00322653846155,
+Brazil,Italy,107412,Final,Mexico,1970,1970-06-21,4,1,home_win,,,,,,,,,71.18102653846155,68.45827307692308,2.722753461538474
+Brazil,Yugoslavia,62000,First round,Germany,1974,1974-06-13,0,0,draw,,,,,,,,,71.18102653846155,,
+Zaire,Scotland,27000,First round,Germany,1974,1974-06-14,0,2,away_win,,,,,,,,,,62.71133875,
+Germany DR,Australia,17000,First round,Germany,1974,1974-06-14,2,0,home_win,,,,,,,,,,59.69487971153847,
+West Germany,Chile,81100,First round,Germany,1974,1974-06-14,1,0,home_win,,,,,,,,,,63.52331596153847,
+Poland,Argentina,32700,First round,Germany,1974,1974-06-15,3,2,home_win,,,,,,,,,61.76560730769231,67.99343846153849,-6.227831153846182
+Italy,Haiti,53000,First round,Germany,1974,1974-06-15,3,1,home_win,,,,,,,,,68.45827307692308,50.2586365,18.199636576923076
+Sweden,Bulgaria,23800,First round,Germany,1974,1974-06-15,0,0,draw,,,,,,,,,62.87979807692308,52.81303951923076,10.066758557692317
+Uruguay,Netherlands,55100,First round,Germany,1974,1974-06-15,0,2,away_win,,,,,,,,,65.00322653846155,66.82286346153847,-1.8196369230769278
+Australia,West Germany,53300,First round,Germany,1974,1974-06-18,0,3,away_win,,,,,,,,,59.69487971153847,,
+Yugoslavia,Zaire,31700,First round,Germany,1974,1974-06-18,9,0,home_win,,,,,,,,,,,
+Scotland,Brazil,62000,First round,Germany,1974,1974-06-18,0,0,draw,,,,,,,,,62.71133875,71.18102653846155,-8.469687788461549
+Chile,Germany DR,28300,First round,Germany,1974,1974-06-18,1,1,draw,,,,,,,,,63.52331596153847,,
+Netherlands,Sweden,53700,First round,Germany,1974,1974-06-19,0,0,draw,,,,,,,,,66.82286346153847,62.87979807692308,3.9430653846153945
+Haiti,Poland,25300,First round,Germany,1974,1974-06-19,0,7,away_win,,,,,,,,,50.2586365,61.76560730769231,-11.506970807692305
+Argentina,Italy,70100,First round,Germany,1974,1974-06-19,1,1,draw,,,,,,,,,67.99343846153849,68.45827307692308,-0.46483461538458926
+Bulgaria,Uruguay,13400,First round,Germany,1974,1974-06-19,1,1,draw,,,,,,,,,52.81303951923076,65.00322653846155,-12.190187019230784
+Scotland,Yugoslavia,56000,First round,Germany,1974,1974-06-22,1,1,draw,,,,,,,,,62.71133875,,
+Germany DR,West Germany,60200,First round,Germany,1974,1974-06-22,1,0,home_win,,,,,,,,,,,
+Zaire,Brazil,36200,First round,Germany,1974,1974-06-22,0,3,away_win,,,,,,,,,,71.18102653846155,
+Australia,Chile,17400,First round,Germany,1974,1974-06-22,0,0,draw,,,,,,,,,59.69487971153847,63.52331596153847,-3.828436250000003
+Argentina,Haiti,25900,First round,Germany,1974,1974-06-23,4,1,home_win,,,,,,,,,67.99343846153849,50.2586365,17.734801961538487
+Sweden,Uruguay,28300,First round,Germany,1974,1974-06-23,3,0,home_win,,,,,,,,,62.87979807692308,65.00322653846155,-2.1234284615384666
+Poland,Italy,70100,First round,Germany,1974,1974-06-23,2,1,home_win,,,,,,,,,61.76560730769231,68.45827307692308,-6.692665769230771
+Bulgaria,Netherlands,53300,First round,Germany,1974,1974-06-23,1,4,away_win,,,,,,,,,52.81303951923076,66.82286346153847,-14.009823942307712
+Netherlands,Argentina,56548,Second round,Germany,1974,1974-06-26,4,0,home_win,,,,,,,,,66.82286346153847,67.99343846153849,-1.1705750000000137
+Sweden,Poland,44955,Second round,Germany,1974,1974-06-26,0,1,away_win,,,,,,,,,62.87979807692308,61.76560730769231,1.114190769230774
+Brazil,Germany DR,59863,Second round,Germany,1974,1974-06-26,1,0,home_win,,,,,,,,,71.18102653846155,,
+Yugoslavia,West Germany,67385,Second round,Germany,1974,1974-06-26,0,2,away_win,,,,,,,,,,,
+Argentina,Brazil,39400,Second round,Germany,1974,1974-06-30,1,2,away_win,,,,,,,,,67.99343846153849,71.18102653846155,-3.1875880769230633
+Poland,Yugoslavia,58000,Second round,Germany,1974,1974-06-30,2,1,home_win,,,,,,,,,61.76560730769231,,
+West Germany,Sweden,67800,Second round,Germany,1974,1974-06-30,4,2,home_win,,,,,,,,,,62.87979807692308,
+Germany DR,Netherlands,68348,Second round,Germany,1974,1974-06-30,0,2,away_win,,,,,,,,,,66.82286346153847,
+Sweden,Yugoslavia,41300,Second round,Germany,1974,1974-07-03,2,1,home_win,,,,,,,,,62.87979807692308,,
+Argentina,Germany DR,54254,Second round,Germany,1974,1974-07-03,1,1,draw,,,,,,,,,67.99343846153849,,
+Netherlands,Brazil,53700,Second round,Germany,1974,1974-07-03,2,0,home_win,,,,,,,,,66.82286346153847,71.18102653846155,-4.358163076923077
+Poland,West Germany,62000,Second round,Germany,1974,1974-07-03,0,1,away_win,,,,,,,,,61.76560730769231,,
+Brazil,Poland,77100,Third-place match,Germany,1974,1974-07-06,0,1,away_win,,,,,,,,,71.18102653846155,61.76560730769231,9.415419230769245
+Netherlands,West Germany,78200,Final,Germany,1974,1974-07-07,1,2,away_win,,,,,,,,,66.82286346153847,,
+West Germany,Poland,67579,First round,Argentina,1978,1978-06-01,0,0,draw,,,,,,,,,,61.76560730769231,
+Argentina,Hungary,71615,First round,Argentina,1978,1978-06-02,2,1,home_win,,,,,,,,,67.99343846153849,57.00994596153846,10.983492500000025
+Tunisia,Mexico,17396,First round,Argentina,1978,1978-06-02,3,1,home_win,,,,,,,,,56.97818234615384,64.15167115384617,-7.17348880769233
+Italy,France,42373,First round,Argentina,1978,1978-06-02,2,1,home_win,,,,,,,,,68.45827307692308,69.714,-1.2557269230769208
+Austria,Spain,40841,First round,Argentina,1978,1978-06-03,2,1,home_win,,,,,,,,,63.952364230769234,71.50423846153845,-7.551874230769215
+Sweden,Brazil,32569,First round,Argentina,1978,1978-06-03,1,1,draw,,,,,,,,,62.87979807692308,71.18102653846155,-8.301228461538471
+Netherlands,Iran,33431,First round,Argentina,1978,1978-06-03,3,0,home_win,,,,,,,,,66.82286346153847,53.570152000000014,13.25271146153846
+Peru,Scotland,37927,First round,Argentina,1978,1978-06-03,3,1,home_win,,,,,,,,,58.05016461538462,62.71133875,-4.661174134615386
+Poland,Tunisia,9624,First round,Argentina,1978,1978-06-06,1,0,home_win,,,,,,,,,61.76560730769231,56.97818234615384,4.78742496153847
+West Germany,Mexico,35258,First round,Argentina,1978,1978-06-06,6,0,home_win,,,,,,,,,,64.15167115384617,
+Italy,Hungary,26533,First round,Argentina,1978,1978-06-06,3,1,home_win,,,,,,,,,68.45827307692308,57.00994596153846,11.448327115384615
+Argentina,France,71666,First round,Argentina,1978,1978-06-06,2,1,home_win,,,,,,,,,67.99343846153849,69.714,-1.72056153846151
+Scotland,Iran,7938,First round,Argentina,1978,1978-06-07,1,1,draw,,,,,,,,,62.71133875,53.570152000000014,9.141186749999989
+Netherlands,Peru,28125,First round,Argentina,1978,1978-06-07,0,0,draw,,,,,,,,,66.82286346153847,58.05016461538462,8.772698846153858
+Brazil,Spain,34771,First round,Argentina,1978,1978-06-07,0,0,draw,,,,,,,,,71.18102653846155,71.50423846153845,-0.3232119230768973
+Austria,Sweden,41424,First round,Argentina,1978,1978-06-07,1,0,home_win,,,,,,,,,63.952364230769234,62.87979807692308,1.0725661538461537
+Italy,Argentina,71712,First round,Argentina,1978,1978-06-10,1,0,home_win,,,,,,,,,68.45827307692308,67.99343846153849,0.46483461538458926
+West Germany,Tunisia,30667,First round,Argentina,1978,1978-06-10,0,0,draw,,,,,,,,,,56.97818234615384,
+Poland,Mexico,22651,First round,Argentina,1978,1978-06-10,3,1,home_win,,,,,,,,,61.76560730769231,64.15167115384617,-2.38606384615386
+France,Hungary,23127,First round,Argentina,1978,1978-06-10,3,1,home_win,,,,,,,,,69.714,57.00994596153846,12.704054038461535
+Brazil,Austria,35221,First round,Argentina,1978,1978-06-11,1,0,home_win,,,,,,,,,71.18102653846155,63.952364230769234,7.228662307692318
+Peru,Iran,21262,First round,Argentina,1978,1978-06-11,4,1,home_win,,,,,,,,,58.05016461538462,53.570152000000014,4.480012615384602
+Spain,Sweden,42132,First round,Argentina,1978,1978-06-11,1,0,home_win,,,,,,,,,71.50423846153845,62.87979807692308,8.624440384615369
+Scotland,Netherlands,35130,First round,Argentina,1978,1978-06-11,3,2,home_win,,,,,,,,,62.71133875,66.82286346153847,-4.111524711538472
+Argentina,Poland,37091,Second round,Argentina,1978,1978-06-14,2,0,home_win,,,,,,,,,67.99343846153849,61.76560730769231,6.227831153846182
+Brazil,Peru,31278,Second round,Argentina,1978,1978-06-14,3,0,home_win,,,,,,,,,71.18102653846155,58.05016461538462,13.130861923076935
+West Germany,Italy,67547,Second round,Argentina,1978,1978-06-14,0,0,draw,,,,,,,,,,68.45827307692308,
+Netherlands,Austria,25050,Second round,Argentina,1978,1978-06-14,5,1,home_win,,,,,,,,,66.82286346153847,63.952364230769234,2.8704992307692407
+Argentina,Brazil,37326,Second round,Argentina,1978,1978-06-18,0,0,draw,,,,,,,,,67.99343846153849,71.18102653846155,-3.1875880769230633
+Italy,Austria,66695,Second round,Argentina,1978,1978-06-18,1,0,home_win,,,,,,,,,68.45827307692308,63.952364230769234,4.505908846153844
+West Germany,Netherlands,40750,Second round,Argentina,1978,1978-06-18,2,2,draw,,,,,,,,,,66.82286346153847,
+Poland,Peru,35288,Second round,Argentina,1978,1978-06-18,1,0,home_win,,,,,,,,,61.76560730769231,58.05016461538462,3.7154426923076898
+Netherlands,Italy,67433,Second round,Argentina,1978,1978-06-21,2,1,home_win,,,,,,,,,66.82286346153847,68.45827307692308,-1.635409615384603
+Austria,West Germany,38318,Second round,Argentina,1978,1978-06-21,3,2,home_win,,,,,,,,,63.952364230769234,,
+Argentina,Peru,37315,Second round,Argentina,1978,1978-06-21,6,0,home_win,,,,,,,,,67.99343846153849,58.05016461538462,9.943273846153872
+Brazil,Poland,39586,Second round,Argentina,1978,1978-06-21,3,1,home_win,,,,,,,,,71.18102653846155,61.76560730769231,9.415419230769245
+Brazil,Italy,69659,Third-place match,Argentina,1978,1978-06-24,2,1,home_win,,,,,,,,,71.18102653846155,68.45827307692308,2.722753461538474
+Argentina,Netherlands,71483,Final,Argentina,1978,1978-06-25,3,1,home_win,,,,,,,,,67.99343846153849,66.82286346153847,1.1705750000000137
+Argentina,Belgium,95000,First group stage,Spain,1982,1982-06-13,0,1,away_win,,,,,,,,,67.99343846153849,67.93338076923077,0.06005769230772273
+Brazil,Soviet Union,68000,First group stage,Spain,1982,1982-06-14,2,1,home_win,,,,,,,,,71.18102653846155,,
+Italy,Poland,33000,First group stage,Spain,1982,1982-06-14,0,0,draw,,,,,,,,,68.45827307692308,61.76560730769231,6.692665769230771
+Scotland,New Zealand,36000,First group stage,Spain,1982,1982-06-15,5,2,home_win,,,,,,,,,62.71133875,53.55966451923077,9.151674230769231
+Hungary,El Salvador,23000,First group stage,Spain,1982,1982-06-15,10,1,home_win,,,,,,,,,57.00994596153846,54.33969125,2.670254711538462
+Peru,Cameroon,11000,First group stage,Spain,1982,1982-06-15,0,0,draw,,,,,,,,,58.05016461538462,59.91948615384615,-1.8693215384615343
+Spain,Honduras,49562,First group stage,Spain,1982,1982-06-16,1,1,draw,,,,,,,,,71.50423846153845,56.29921266666667,15.20502579487178
+West Germany,Algeria,42000,First group stage,Spain,1982,1982-06-16,1,2,away_win,,,,,,,,,,62.31388865384615,
+England,France,44172,First group stage,Spain,1982,1982-06-16,3,1,home_win,,,,,,,,,68.18326346153846,69.714,-1.5307365384615395
+Chile,Austria,22500,First group stage,Spain,1982,1982-06-17,0,1,away_win,,,,,,,,,63.52331596153847,63.952364230769234,-0.429048269230762
+Yugoslavia,Northern Ireland,25000,First group stage,Spain,1982,1982-06-17,0,0,draw,,,,,,,,,,57.40677173076923,
+Czechoslovakia,Kuwait,25000,First group stage,Spain,1982,1982-06-17,1,1,draw,,,,,,,,,,59.21806,
+Brazil,Scotland,47379,First group stage,Spain,1982,1982-06-18,4,1,home_win,,,,,,,,,71.18102653846155,62.71133875,8.469687788461549
+Italy,Peru,25000,First group stage,Spain,1982,1982-06-18,1,1,draw,,,,,,,,,68.45827307692308,58.05016461538462,10.408108461538461
+Argentina,Hungary,32093,First group stage,Spain,1982,1982-06-18,4,1,home_win,,,,,,,,,67.99343846153849,57.00994596153846,10.983492500000025
+Belgium,El Salvador,15000,First group stage,Spain,1982,1982-06-19,1,0,home_win,,,,,,,,,67.93338076923077,54.33969125,13.593689519230765
+Soviet Union,New Zealand,19000,First group stage,Spain,1982,1982-06-19,3,0,home_win,,,,,,,,,,53.55966451923077,
+Poland,Cameroon,19000,First group stage,Spain,1982,1982-06-19,0,0,draw,,,,,,,,,61.76560730769231,59.91948615384615,1.8461211538461555
+Spain,Yugoslavia,48000,First group stage,Spain,1982,1982-06-20,2,1,home_win,,,,,,,,,71.50423846153845,,
+England,Czechoslovakia,41123,First group stage,Spain,1982,1982-06-20,2,0,home_win,,,,,,,,,68.18326346153846,,
+West Germany,Chile,42000,First group stage,Spain,1982,1982-06-20,4,1,home_win,,,,,,,,,,63.52331596153847,
+Algeria,Austria,22000,First group stage,Spain,1982,1982-06-21,0,2,away_win,,,,,,,,,62.31388865384615,63.952364230769234,-1.638475576923085
+Honduras,Northern Ireland,15000,First group stage,Spain,1982,1982-06-21,1,1,draw,,,,,,,,,56.29921266666667,57.40677173076923,-1.1075590641025599
+France,Kuwait,30043,First group stage,Spain,1982,1982-06-21,4,1,home_win,,,,,,,,,69.714,59.21806,10.495939999999997
+Poland,Peru,25000,First group stage,Spain,1982,1982-06-22,5,1,home_win,,,,,,,,,61.76560730769231,58.05016461538462,3.7154426923076898
+Soviet Union,Scotland,45000,First group stage,Spain,1982,1982-06-22,2,2,draw,,,,,,,,,,62.71133875,
+Belgium,Hungary,37000,First group stage,Spain,1982,1982-06-22,1,1,draw,,,,,,,,,67.93338076923077,57.00994596153846,10.923434807692303
+Argentina,El Salvador,32500,First group stage,Spain,1982,1982-06-23,2,0,home_win,,,,,,,,,67.99343846153849,54.33969125,13.653747211538487
+Italy,Cameroon,20000,First group stage,Spain,1982,1982-06-23,1,1,draw,,,,,,,,,68.45827307692308,59.91948615384615,8.538786923076927
+Brazil,New Zealand,43000,First group stage,Spain,1982,1982-06-23,4,0,home_win,,,,,,,,,71.18102653846155,53.55966451923077,17.62136201923078
+Honduras,Yugoslavia,25000,First group stage,Spain,1982,1982-06-24,0,1,away_win,,,,,,,,,56.29921266666667,,
+Algeria,Chile,16000,First group stage,Spain,1982,1982-06-24,3,2,home_win,,,,,,,,,62.31388865384615,63.52331596153847,-1.209427307692323
+France,Czechoslovakia,28000,First group stage,Spain,1982,1982-06-24,1,1,draw,,,,,,,,,69.714,,
+Northern Ireland,Spain,49562,First group stage,Spain,1982,1982-06-25,1,0,home_win,,,,,,,,,57.40677173076923,71.50423846153845,-14.09746673076922
+West Germany,Austria,41000,First group stage,Spain,1982,1982-06-25,1,0,home_win,,,,,,,,,,63.952364230769234,
+England,Kuwait,39700,First group stage,Spain,1982,1982-06-25,1,0,home_win,,,,,,,,,68.18326346153846,59.21806,8.965203461538458
+Poland,Belgium,65000,Second group stage,Spain,1982,1982-06-28,3,0,home_win,,,,,,,,,61.76560730769231,67.93338076923077,-6.167773461538459
+Austria,France,37000,Second group stage,Spain,1982,1982-06-28,0,1,away_win,,,,,,,,,63.952364230769234,69.714,-5.7616357692307645
+Italy,Argentina,43000,Second group stage,Spain,1982,1982-06-29,2,1,home_win,,,,,,,,,68.45827307692308,67.99343846153849,0.46483461538458926
+West Germany,England,75000,Second group stage,Spain,1982,1982-06-29,0,0,draw,,,,,,,,,,68.18326346153846,
+Austria,Northern Ireland,20000,Second group stage,Spain,1982,1982-07-01,2,2,draw,,,,,,,,,63.952364230769234,57.40677173076923,6.545592500000005
+Belgium,Soviet Union,45000,Second group stage,Spain,1982,1982-07-01,0,1,away_win,,,,,,,,,67.93338076923077,,
+West Germany,Spain,90089,Second group stage,Spain,1982,1982-07-02,2,1,home_win,,,,,,,,,,71.50423846153845,
+Argentina,Brazil,44000,Second group stage,Spain,1982,1982-07-02,1,3,away_win,,,,,,,,,67.99343846153849,71.18102653846155,-3.1875880769230633
+Poland,Soviet Union,65000,Second group stage,Spain,1982,1982-07-04,0,0,draw,,,,,,,,,61.76560730769231,,
+France,Northern Ireland,37000,Second group stage,Spain,1982,1982-07-04,4,1,home_win,,,,,,,,,69.714,57.40677173076923,12.30722826923077
+Spain,England,75000,Second group stage,Spain,1982,1982-07-05,0,0,draw,,,,,,,,,71.50423846153845,68.18326346153846,3.32097499999999
+Italy,Brazil,44000,Second group stage,Spain,1982,1982-07-05,3,2,home_win,,,,,,,,,68.45827307692308,71.18102653846155,-2.722753461538474
+West Germany,France,70000,Semi-finals,Spain,1982,1982-07-08,3,3,draw,,,,,,,,,,69.714,
+Poland,Italy,50000,Semi-finals,Spain,1982,1982-07-08,0,2,away_win,,,,,,,,,61.76560730769231,68.45827307692308,-6.692665769230771
+Poland,France,28000,Third-place match,Spain,1982,1982-07-10,3,2,home_win,,,,,,,,,61.76560730769231,69.714,-7.948392692307692
+Italy,West Germany,90000,Final,Spain,1982,1982-07-11,3,1,home_win,,,,,,,,,68.45827307692308,,
+Bulgaria,Italy,96000,Group stage,Mexico,1986,1986-05-31,1,1,draw,,,,,,,,,52.81303951923076,68.45827307692308,-15.645233557692315
+Spain,Brazil,35748,Group stage,Mexico,1986,1986-06-01,0,1,away_win,,,,,,,,,71.50423846153845,71.18102653846155,0.3232119230768973
+Canada,France,65500,Group stage,Mexico,1986,1986-06-01,0,1,away_win,,,,,,,,,56.19535634615384,69.714,-13.518643653846162
+Soviet Union,Hungary,16500,Group stage,Mexico,1986,1986-06-02,6,0,home_win,,,,,,,,,,57.00994596153846,
+Morocco,Poland,19900,Group stage,Mexico,1986,1986-06-02,0,0,draw,,,,,,,,,62.09039384615384,61.76560730769231,0.32478653846153094
+Argentina,South Korea,60000,Group stage,Mexico,1986,1986-06-02,3,1,home_win,,,,,,,,,67.99343846153849,,
+Belgium,Mexico,110000,Group stage,Mexico,1986,1986-06-03,1,2,away_win,,,,,,,,,67.93338076923077,64.15167115384617,3.7817096153845995
+Portugal,England,23000,Group stage,Mexico,1986,1986-06-03,1,0,home_win,,,,,,,,,68.66904192307692,68.18326346153846,0.48577846153845883
+Algeria,Northern Ireland,22000,Group stage,Mexico,1986,1986-06-03,1,1,draw,,,,,,,,,62.31388865384615,57.40677173076923,4.90711692307692
+Paraguay,Iraq,24000,Group stage,Mexico,1986,1986-06-04,1,0,home_win,,,,,,,,,61.38765480769232,55.76618191666666,5.621472891025661
+Scotland,Denmark,18000,Group stage,Mexico,1986,1986-06-04,0,1,away_win,,,,,,,,,62.71133875,64.05919923076922,-1.3478604807692207
+Uruguay,West Germany,30500,Group stage,Mexico,1986,1986-06-04,1,1,draw,,,,,,,,,65.00322653846155,,
+South Korea,Bulgaria,45000,Group stage,Mexico,1986,1986-06-05,1,1,draw,,,,,,,,,,52.81303951923076,
+France,Soviet Union,36540,Group stage,Mexico,1986,1986-06-05,1,1,draw,,,,,,,,,69.714,,
+Italy,Argentina,32000,Group stage,Mexico,1986,1986-06-05,1,1,draw,,,,,,,,,68.45827307692308,67.99343846153849,0.46483461538458926
+England,Morocco,20200,Group stage,Mexico,1986,1986-06-06,0,0,draw,,,,,,,,,68.18326346153846,62.09039384615384,6.092869615384622
+Hungary,Canada,13800,Group stage,Mexico,1986,1986-06-06,2,0,home_win,,,,,,,,,57.00994596153846,56.19535634615384,0.8145896153846266
+Brazil,Algeria,48000,Group stage,Mexico,1986,1986-06-06,1,0,home_win,,,,,,,,,71.18102653846155,62.31388865384615,8.867137884615403
+Mexico,Paraguay,114600,Group stage,Mexico,1986,1986-06-07,1,1,draw,,,,,,,,,64.15167115384617,61.38765480769232,2.764016346153845
+Poland,Portugal,19915,Group stage,Mexico,1986,1986-06-07,1,0,home_win,,,,,,,,,61.76560730769231,68.66904192307692,-6.903434615384612
+Northern Ireland,Spain,28000,Group stage,Mexico,1986,1986-06-07,1,2,away_win,,,,,,,,,57.40677173076923,71.50423846153845,-14.09746673076922
+Denmark,Uruguay,26500,Group stage,Mexico,1986,1986-06-08,6,1,home_win,,,,,,,,,64.05919923076922,65.00322653846155,-0.9440273076923233
+West Germany,Scotland,30000,Group stage,Mexico,1986,1986-06-08,2,1,home_win,,,,,,,,,,62.71133875,
+Iraq,Belgium,20000,Group stage,Mexico,1986,1986-06-08,1,2,away_win,,,,,,,,,55.76618191666666,67.93338076923077,-12.167198852564105
+Hungary,France,31420,Group stage,Mexico,1986,1986-06-09,0,3,away_win,,,,,,,,,57.00994596153846,69.714,-12.704054038461535
+Soviet Union,Canada,14200,Group stage,Mexico,1986,1986-06-09,2,0,home_win,,,,,,,,,,56.19535634615384,
+South Korea,Italy,20000,Group stage,Mexico,1986,1986-06-10,2,3,away_win,,,,,,,,,,68.45827307692308,
+Argentina,Bulgaria,65000,Group stage,Mexico,1986,1986-06-10,2,0,home_win,,,,,,,,,67.99343846153849,52.81303951923076,15.180398942307725
+Paraguay,Belgium,16000,Group stage,Mexico,1986,1986-06-11,2,2,draw,,,,,,,,,61.38765480769232,67.93338076923077,-6.545725961538444
+Portugal,Morocco,28000,Group stage,Mexico,1986,1986-06-11,1,3,away_win,,,,,,,,,68.66904192307692,62.09039384615384,6.578648076923081
+England,Poland,22700,Group stage,Mexico,1986,1986-06-11,3,0,home_win,,,,,,,,,68.18326346153846,61.76560730769231,6.417656153846153
+Iraq,Mexico,103763,Group stage,Mexico,1986,1986-06-11,0,1,away_win,,,,,,,,,55.76618191666666,64.15167115384617,-8.385489237179506
+Algeria,Spain,23980,Group stage,Mexico,1986,1986-06-12,0,3,away_win,,,,,,,,,62.31388865384615,71.50423846153845,-9.1903498076923
+Northern Ireland,Brazil,51000,Group stage,Mexico,1986,1986-06-12,0,3,away_win,,,,,,,,,57.40677173076923,71.18102653846155,-13.774254807692323
+Denmark,West Germany,36000,Group stage,Mexico,1986,1986-06-13,2,0,home_win,,,,,,,,,64.05919923076922,,
+Scotland,Uruguay,20000,Group stage,Mexico,1986,1986-06-13,0,0,draw,,,,,,,,,62.71133875,65.00322653846155,-2.291887788461544
+Mexico,Bulgaria,114580,Round of 16,Mexico,1986,1986-06-15,2,0,home_win,,,,,,,,,64.15167115384617,52.81303951923076,11.338631634615403
+Soviet Union,Belgium,32277,Round of 16,Mexico,1986,1986-06-15,3,4,away_win,,,,,,,,,,67.93338076923077,
+Argentina,Uruguay,26000,Round of 16,Mexico,1986,1986-06-16,1,0,home_win,,,,,,,,,67.99343846153849,65.00322653846155,2.9902119230769415
+Brazil,Poland,45000,Round of 16,Mexico,1986,1986-06-16,4,0,home_win,,,,,,,,,71.18102653846155,61.76560730769231,9.415419230769245
+Morocco,West Germany,19800,Round of 16,Mexico,1986,1986-06-17,0,1,away_win,,,,,,,,,62.09039384615384,,
+Italy,France,70000,Round of 16,Mexico,1986,1986-06-17,0,2,away_win,,,,,,,,,68.45827307692308,69.714,-1.2557269230769208
+Denmark,Spain,38500,Round of 16,Mexico,1986,1986-06-18,1,5,away_win,,,,,,,,,64.05919923076922,71.50423846153845,-7.4450392307692255
+England,Paraguay,98728,Round of 16,Mexico,1986,1986-06-18,3,0,home_win,,,,,,,,,68.18326346153846,61.38765480769232,6.795608653846138
+West Germany,Mexico,41700,Quarter-finals,Mexico,1986,1986-06-21,0,0,draw,,,,,,,,,,64.15167115384617,
+Brazil,France,65000,Quarter-finals,Mexico,1986,1986-06-21,1,1,draw,,,,,,,,,71.18102653846155,69.714,1.4670265384615533
+Argentina,England,114580,Quarter-finals,Mexico,1986,1986-06-22,2,1,home_win,,,,,,,,,67.99343846153849,68.18326346153846,-0.1898249999999706
+Spain,Belgium,45000,Quarter-finals,Mexico,1986,1986-06-22,1,1,draw,,,,,,,,,71.50423846153845,67.93338076923077,3.5708576923076834
+Argentina,Belgium,114500,Semi-finals,Mexico,1986,1986-06-25,2,0,home_win,,,,,,,,,67.99343846153849,67.93338076923077,0.06005769230772273
+France,West Germany,45000,Semi-finals,Mexico,1986,1986-06-25,0,2,away_win,,,,,,,,,69.714,,
+France,Belgium,21000,Third-place match,Mexico,1986,1986-06-28,4,2,home_win,,,,,,,,,69.714,67.93338076923077,1.7806192307692328
+Argentina,West Germany,114600,Final,Mexico,1986,1986-06-29,3,2,home_win,,,,,,,,,67.99343846153849,,
+Argentina,Cameroon,73780,Group stage,Italy,1990,1990-06-08,0,1,away_win,,,,,,,,,67.99343846153849,59.91948615384615,8.073952307692338
+Italy,Austria,73303,Group stage,Italy,1990,1990-06-09,1,0,home_win,,,,,,,,,68.45827307692308,63.952364230769234,4.505908846153844
+Soviet Union,Romania,42907,Group stage,Italy,1990,1990-06-09,0,2,away_win,,,,,,,,,,59.02940903846154,
+United Arab Emirates,Colombia,30791,Group stage,Italy,1990,1990-06-09,0,2,away_win,,,,,,,,,60.10452500000001,64.20907144230769,-4.104546442307679
+Brazil,Sweden,62628,Group stage,Italy,1990,1990-06-10,2,1,home_win,,,,,,,,,71.18102653846155,62.87979807692308,8.301228461538471
+West Germany,Yugoslavia,74765,Group stage,Italy,1990,1990-06-10,4,1,home_win,,,,,,,,,,,
+United States,Czechoslovakia,33266,Group stage,Italy,1990,1990-06-10,1,5,away_win,,,,,,,,,62.40566538461539,,
+England,Republic of Ireland,35238,Group stage,Italy,1990,1990-06-11,1,1,draw,,,,,,,,,68.18326346153846,61.54500153846156,6.638261923076897
+Costa Rica,Scotland,30867,Group stage,Italy,1990,1990-06-11,1,0,home_win,,,,,,,,,54.76753863461539,62.71133875,-7.943800115384612
+Belgium,South Korea,32790,Group stage,Italy,1990,1990-06-12,2,0,home_win,,,,,,,,,67.93338076923077,,
+Netherlands,Egypt,33288,Group stage,Italy,1990,1990-06-12,1,1,draw,,,,,,,,,66.82286346153847,57.44508059615386,9.377782865384617
+Argentina,Soviet Union,55759,Group stage,Italy,1990,1990-06-13,2,0,home_win,,,,,,,,,67.99343846153849,,
+Uruguay,Spain,35713,Group stage,Italy,1990,1990-06-13,0,0,draw,,,,,,,,,65.00322653846155,71.50423846153845,-6.501011923076902
+Cameroon,Romania,38687,Group stage,Italy,1990,1990-06-14,2,1,home_win,,,,,,,,,59.91948615384615,59.02940903846154,0.8900771153846136
+Italy,United States,73423,Group stage,Italy,1990,1990-06-14,1,0,home_win,,,,,,,,,68.45827307692308,62.40566538461539,6.052607692307689
+Yugoslavia,Colombia,32257,Group stage,Italy,1990,1990-06-14,1,0,home_win,,,,,,,,,,64.20907144230769,
+West Germany,United Arab Emirates,71169,Group stage,Italy,1990,1990-06-15,5,1,home_win,,,,,,,,,,60.10452500000001,
+Austria,Czechoslovakia,38962,Group stage,Italy,1990,1990-06-15,0,1,away_win,,,,,,,,,63.952364230769234,,
+Sweden,Scotland,31823,Group stage,Italy,1990,1990-06-16,1,2,away_win,,,,,,,,,62.87979807692308,62.71133875,0.1684593269230774
+England,Netherlands,35267,Group stage,Italy,1990,1990-06-16,0,0,draw,,,,,,,,,68.18326346153846,66.82286346153847,1.3603999999999843
+Brazil,Costa Rica,58007,Group stage,Italy,1990,1990-06-16,1,0,home_win,,,,,,,,,71.18102653846155,54.76753863461539,16.41348790384616
+South Korea,Spain,32733,Group stage,Italy,1990,1990-06-17,1,3,away_win,,,,,,,,,,71.50423846153845,
+Belgium,Uruguay,33759,Group stage,Italy,1990,1990-06-17,3,1,home_win,,,,,,,,,67.93338076923077,65.00322653846155,2.9301542307692188
+Republic of Ireland,Egypt,33288,Group stage,Italy,1990,1990-06-17,0,0,draw,,,,,,,,,61.54500153846156,57.44508059615386,4.099920942307705
+Cameroon,Soviet Union,37307,Group stage,Italy,1990,1990-06-18,0,4,away_win,,,,,,,,,59.91948615384615,,
+Argentina,Romania,52733,Group stage,Italy,1990,1990-06-18,1,1,draw,,,,,,,,,67.99343846153849,59.02940903846154,8.964029423076951
+West Germany,Colombia,72510,Group stage,Italy,1990,1990-06-19,1,1,draw,,,,,,,,,,64.20907144230769,
+Yugoslavia,United Arab Emirates,27833,Group stage,Italy,1990,1990-06-19,4,1,home_win,,,,,,,,,,60.10452500000001,
+Italy,Czechoslovakia,73303,Group stage,Italy,1990,1990-06-19,2,0,home_win,,,,,,,,,68.45827307692308,,
+Austria,United States,34857,Group stage,Italy,1990,1990-06-19,2,1,home_win,,,,,,,,,63.952364230769234,62.40566538461539,1.546698846153845
+Brazil,Scotland,62502,Group stage,Italy,1990,1990-06-20,1,0,home_win,,,,,,,,,71.18102653846155,62.71133875,8.469687788461549
+Sweden,Costa Rica,30223,Group stage,Italy,1990,1990-06-20,1,2,away_win,,,,,,,,,62.87979807692308,54.76753863461539,8.112259442307689
+England,Egypt,34959,Group stage,Italy,1990,1990-06-21,1,0,home_win,,,,,,,,,68.18326346153846,57.44508059615386,10.738182865384601
+Republic of Ireland,Netherlands,33288,Group stage,Italy,1990,1990-06-21,1,1,draw,,,,,,,,,61.54500153846156,66.82286346153847,-5.277861923076912
+South Korea,Uruguay,29039,Group stage,Italy,1990,1990-06-21,0,1,away_win,,,,,,,,,,65.00322653846155,
+Belgium,Spain,35950,Group stage,Italy,1990,1990-06-21,1,2,away_win,,,,,,,,,67.93338076923077,71.50423846153845,-3.5708576923076834
+Czechoslovakia,Costa Rica,47673,Round of 16,Italy,1990,1990-06-23,4,1,home_win,,,,,,,,,,54.76753863461539,
+Cameroon,Colombia,50026,Round of 16,Italy,1990,1990-06-23,2,1,home_win,,,,,,,,,59.91948615384615,64.20907144230769,-4.289585288461538
+West Germany,Netherlands,74559,Round of 16,Italy,1990,1990-06-24,2,1,home_win,,,,,,,,,,66.82286346153847,
+Brazil,Argentina,61381,Round of 16,Italy,1990,1990-06-24,0,1,away_win,,,,,,,,,71.18102653846155,67.99343846153849,3.1875880769230633
+Italy,Uruguay,73303,Round of 16,Italy,1990,1990-06-25,2,0,home_win,,,,,,,,,68.45827307692308,65.00322653846155,3.4550465384615308
+Republic of Ireland,Romania,31818,Round of 16,Italy,1990,1990-06-25,0,0,draw,,,,,,,,,61.54500153846156,59.02940903846154,2.515592500000025
+England,Belgium,34520,Round of 16,Italy,1990,1990-06-26,1,0,home_win,,,,,,,,,68.18326346153846,67.93338076923077,0.24988269230769333
+Spain,Yugoslavia,35500,Round of 16,Italy,1990,1990-06-26,1,2,away_win,,,,,,,,,71.50423846153845,,
+Italy,Republic of Ireland,73303,Quarter-finals,Italy,1990,1990-06-30,1,0,home_win,,,,,,,,,68.45827307692308,61.54500153846156,6.913271538461515
+Yugoslavia,Argentina,38971,Quarter-finals,Italy,1990,1990-06-30,0,0,draw,,,,,,,,,,67.99343846153849,
+England,Cameroon,55205,Quarter-finals,Italy,1990,1990-07-01,3,2,home_win,,,,,,,,,68.18326346153846,59.91948615384615,8.263777307692308
+West Germany,Czechoslovakia,73347,Quarter-finals,Italy,1990,1990-07-01,1,0,home_win,,,,,,,,,,,
+Italy,Argentina,59978,Semi-finals,Italy,1990,1990-07-03,1,1,draw,,,,,,,,,68.45827307692308,67.99343846153849,0.46483461538458926
+West Germany,England,62628,Semi-finals,Italy,1990,1990-07-04,1,1,draw,,,,,,,,,,68.18326346153846,
+Italy,England,51426,Third-place match,Italy,1990,1990-07-07,2,1,home_win,,,,,,,,,68.45827307692308,68.18326346153846,0.27500961538461866
+West Germany,Argentina,73603,Final,Italy,1990,1990-07-08,1,0,home_win,,,,,,,,,,67.99343846153849,
+Spain,South Korea,56247,Group stage,United States,1994,1994-06-17,2,2,draw,5.0,56.0,UEFA,37.0,38.0,AFC,32.0,18.0,71.50423846153845,,
+Germany,Bolivia,63117,Group stage,United States,1994,1994-06-17,1,0,home_win,1.0,60.0,UEFA,43.0,35.0,CONMEBOL,42.0,25.0,69.83241730769232,52.41948538461538,17.412931923076947
+United States,Switzerland,73425,Group stage,United States,1994,1994-06-18,1,1,draw,23.0,47.0,CONCACAF,12.0,54.0,UEFA,-11.0,-7.0,62.40566538461539,64.68190576923077,-2.2762403846153774
+Colombia,Romania,91856,Group stage,United States,1994,1994-06-18,1,3,away_win,17.0,51.0,CONMEBOL,7.0,55.0,UEFA,-10.0,-4.0,64.20907144230769,59.02940903846154,5.179662403846152
+Italy,Republic of Ireland,75338,Group stage,United States,1994,1994-06-18,0,1,away_win,4.0,57.0,UEFA,14.0,53.0,UEFA,10.0,4.0,68.45827307692308,61.54500153846156,6.913271538461515
+Cameroon,Sweden,93194,Group stage,United States,1994,1994-06-19,2,2,draw,24.0,46.0,CAF,10.0,55.0,UEFA,-14.0,-9.0,59.91948615384615,62.87979807692308,-2.9603119230769295
+Norway,Mexico,52395,Group stage,United States,1994,1994-06-19,1,0,home_win,6.0,56.0,UEFA,16.0,51.0,CONCACAF,10.0,5.0,61.37427692307692,64.15167115384617,-2.7773942307692465
+Belgium,Morocco,61219,Group stage,United States,1994,1994-06-19,1,0,home_win,27.0,44.0,UEFA,28.0,44.0,CAF,1.0,0.0,67.93338076923077,62.09039384615384,5.8429869230769285
+Netherlands,Saudi Arabia,50535,Group stage,United States,1994,1994-06-20,2,1,home_win,2.0,59.0,UEFA,34.0,40.0,AFC,32.0,19.0,66.82286346153847,57.83005211538461,8.992811346153864
+Brazil,Russia,81061,Group stage,United States,1994,1994-06-20,2,0,home_win,3.0,59.0,CONMEBOL,19.0,50.0,UEFA,16.0,9.0,71.18102653846155,63.45978846153847,7.721238076923079
+Nigeria,Bulgaria,44132,Group stage,United States,1994,1994-06-21,3,0,home_win,11.0,54.0,CAF,29.0,44.0,UEFA,18.0,10.0,60.60471115384616,52.81303951923076,7.791671634615398
+Germany,Spain,63113,Group stage,United States,1994,1994-06-21,1,1,draw,1.0,60.0,UEFA,5.0,56.0,UEFA,4.0,4.0,69.83241730769232,71.50423846153845,-1.6718211538461247
+Argentina,Greece,54456,Group stage,United States,1994,1994-06-21,4,0,home_win,8.0,55.0,CONMEBOL,31.0,41.0,UEFA,23.0,14.0,67.99343846153849,61.26938317307693,6.724055288461557
+United States,Colombia,93869,Group stage,United States,1994,1994-06-22,2,1,home_win,23.0,47.0,CONCACAF,17.0,51.0,CONMEBOL,-6.0,-4.0,62.40566538461539,64.20907144230769,-1.8034060576922997
+Romania,Switzerland,61428,Group stage,United States,1994,1994-06-22,1,4,away_win,7.0,55.0,UEFA,12.0,54.0,UEFA,5.0,1.0,59.02940903846154,64.68190576923077,-5.652496730769229
+South Korea,Bolivia,54453,Group stage,United States,1994,1994-06-23,0,0,draw,37.0,38.0,AFC,43.0,35.0,CONMEBOL,6.0,3.0,,52.41948538461538,
+Italy,Norway,74624,Group stage,United States,1994,1994-06-23,1,0,home_win,4.0,57.0,UEFA,6.0,56.0,UEFA,2.0,1.0,68.45827307692308,61.37427692307692,7.083996153846158
+Sweden,Russia,71528,Group stage,United States,1994,1994-06-24,3,1,home_win,10.0,55.0,UEFA,19.0,50.0,UEFA,9.0,5.0,62.87979807692308,63.45978846153847,-0.5799903846153924
+Brazil,Cameroon,83401,Group stage,United States,1994,1994-06-24,3,0,home_win,3.0,59.0,CONMEBOL,24.0,46.0,CAF,21.0,13.0,71.18102653846155,59.91948615384615,11.261540384615401
+Mexico,Republic of Ireland,60790,Group stage,United States,1994,1994-06-24,2,1,home_win,16.0,51.0,CONCACAF,14.0,53.0,UEFA,-2.0,-2.0,64.15167115384617,61.54500153846156,2.606669615384604
+Belgium,Netherlands,62387,Group stage,United States,1994,1994-06-25,1,0,home_win,27.0,44.0,UEFA,2.0,59.0,UEFA,-25.0,-15.0,67.93338076923077,66.82286346153847,1.110517307692291
+Argentina,Nigeria,54453,Group stage,United States,1994,1994-06-25,2,1,home_win,8.0,55.0,CONMEBOL,11.0,54.0,CAF,3.0,1.0,67.99343846153849,60.60471115384616,7.388727307692328
+Saudi Arabia,Morocco,76322,Group stage,United States,1994,1994-06-25,2,1,home_win,34.0,40.0,AFC,28.0,44.0,CAF,-6.0,-4.0,57.83005211538461,62.09039384615384,-4.260341730769227
+Bulgaria,Greece,63160,Group stage,United States,1994,1994-06-26,4,0,home_win,29.0,44.0,UEFA,31.0,41.0,UEFA,2.0,3.0,52.81303951923076,61.26938317307693,-8.456343653846169
+Switzerland,Colombia,83401,Group stage,United States,1994,1994-06-26,0,2,away_win,12.0,54.0,UEFA,17.0,51.0,CONMEBOL,5.0,3.0,64.68190576923077,64.20907144230769,0.4728343269230777
+United States,Romania,93869,Group stage,United States,1994,1994-06-26,0,1,away_win,23.0,47.0,CONCACAF,7.0,55.0,UEFA,-16.0,-8.0,62.40566538461539,59.02940903846154,3.376256346153852
+Bolivia,Spain,63089,Group stage,United States,1994,1994-06-27,1,3,away_win,43.0,35.0,CONMEBOL,5.0,56.0,UEFA,-38.0,-21.0,52.41948538461538,71.50423846153845,-19.08475307692307
+Germany,South Korea,63998,Group stage,United States,1994,1994-06-27,3,2,home_win,1.0,60.0,UEFA,37.0,38.0,AFC,36.0,22.0,69.83241730769232,,
+Italy,Mexico,52535,Group stage,United States,1994,1994-06-28,1,1,draw,4.0,57.0,UEFA,16.0,51.0,CONCACAF,12.0,6.0,68.45827307692308,64.15167115384617,4.3066019230769115
+Brazil,Sweden,77217,Group stage,United States,1994,1994-06-28,1,1,draw,3.0,59.0,CONMEBOL,10.0,55.0,UEFA,7.0,4.0,71.18102653846155,62.87979807692308,8.301228461538471
+Russia,Cameroon,74914,Group stage,United States,1994,1994-06-28,6,1,home_win,19.0,50.0,UEFA,24.0,46.0,CAF,5.0,4.0,63.45978846153847,59.91948615384615,3.540302307692322
+Republic of Ireland,Norway,72404,Group stage,United States,1994,1994-06-28,0,0,draw,14.0,53.0,UEFA,6.0,56.0,UEFA,-8.0,-3.0,61.54500153846156,61.37427692307692,0.17072461538464268
+Belgium,Saudi Arabia,52959,Group stage,United States,1994,1994-06-29,0,1,away_win,27.0,44.0,UEFA,34.0,40.0,AFC,7.0,4.0,67.93338076923077,57.83005211538461,10.103328653846155
+Morocco,Netherlands,60578,Group stage,United States,1994,1994-06-29,1,2,away_win,28.0,44.0,CAF,2.0,59.0,UEFA,-26.0,-15.0,62.09039384615384,66.82286346153847,-4.7324696153846375
+Argentina,Bulgaria,63998,Group stage,United States,1994,1994-06-30,0,2,away_win,8.0,55.0,CONMEBOL,29.0,44.0,UEFA,21.0,11.0,67.99343846153849,52.81303951923076,15.180398942307725
+Greece,Nigeria,53001,Group stage,United States,1994,1994-06-30,0,2,away_win,31.0,41.0,UEFA,11.0,54.0,CAF,-20.0,-13.0,61.26938317307693,60.60471115384616,0.6646720192307711
+Spain,Switzerland,53121,Round of 16,United States,1994,1994-07-02,3,0,home_win,5.0,56.0,UEFA,12.0,54.0,UEFA,7.0,2.0,71.50423846153845,64.68190576923077,6.822332692307683
+Germany,Belgium,60246,Round of 16,United States,1994,1994-07-02,3,2,home_win,1.0,60.0,UEFA,27.0,44.0,UEFA,26.0,16.0,69.83241730769232,67.93338076923077,1.8990365384615586
+Romania,Argentina,90469,Round of 16,United States,1994,1994-07-03,3,2,home_win,7.0,55.0,UEFA,8.0,55.0,CONMEBOL,1.0,0.0,59.02940903846154,67.99343846153849,-8.964029423076951
+Saudi Arabia,Sweden,60277,Round of 16,United States,1994,1994-07-03,1,3,away_win,34.0,40.0,AFC,10.0,55.0,UEFA,-24.0,-15.0,57.83005211538461,62.87979807692308,-5.04974596153847
+Netherlands,Republic of Ireland,61355,Round of 16,United States,1994,1994-07-04,2,0,home_win,2.0,59.0,UEFA,14.0,53.0,UEFA,12.0,6.0,66.82286346153847,61.54500153846156,5.277861923076912
+Brazil,United States,84147,Round of 16,United States,1994,1994-07-04,1,0,home_win,3.0,59.0,CONMEBOL,23.0,47.0,CONCACAF,20.0,12.0,71.18102653846155,62.40566538461539,8.775361153846163
+Mexico,Bulgaria,71030,Round of 16,United States,1994,1994-07-05,1,1,draw,16.0,51.0,CONCACAF,29.0,44.0,UEFA,13.0,7.0,64.15167115384617,52.81303951923076,11.338631634615403
+Nigeria,Italy,54367,Round of 16,United States,1994,1994-07-05,1,2,away_win,11.0,54.0,CAF,4.0,57.0,UEFA,-7.0,-3.0,60.60471115384616,68.45827307692308,-7.853561923076917
+Netherlands,Brazil,63500,Quarter-finals,United States,1994,1994-07-09,2,3,away_win,2.0,59.0,UEFA,3.0,59.0,CONMEBOL,1.0,0.0,66.82286346153847,71.18102653846155,-4.358163076923077
+Italy,Spain,53400,Quarter-finals,United States,1994,1994-07-09,2,1,home_win,4.0,57.0,UEFA,5.0,56.0,UEFA,1.0,1.0,68.45827307692308,71.50423846153845,-3.0459653846153714
+Romania,Sweden,83500,Quarter-finals,United States,1994,1994-07-10,2,2,draw,7.0,55.0,UEFA,10.0,55.0,UEFA,3.0,0.0,59.02940903846154,62.87979807692308,-3.850389038461543
+Bulgaria,Germany,72000,Quarter-finals,United States,1994,1994-07-10,2,1,home_win,29.0,44.0,UEFA,1.0,60.0,UEFA,-28.0,-16.0,52.81303951923076,69.83241730769232,-17.01937778846156
+Sweden,Brazil,91856,Semi-finals,United States,1994,1994-07-13,0,1,away_win,10.0,55.0,UEFA,3.0,59.0,CONMEBOL,-7.0,-4.0,62.87979807692308,71.18102653846155,-8.301228461538471
+Bulgaria,Italy,74110,Semi-finals,United States,1994,1994-07-13,1,2,away_win,29.0,44.0,UEFA,4.0,57.0,UEFA,-25.0,-13.0,52.81303951923076,68.45827307692308,-15.645233557692315
+Sweden,Bulgaria,91500,Third-place match,United States,1994,1994-07-16,4,0,home_win,10.0,55.0,UEFA,29.0,44.0,UEFA,19.0,11.0,62.87979807692308,52.81303951923076,10.066758557692317
+Brazil,Italy,94194,Final,United States,1994,1994-07-17,0,0,draw,3.0,59.0,CONMEBOL,4.0,57.0,UEFA,1.0,2.0,71.18102653846155,68.45827307692308,2.722753461538474
+Brazil,Scotland,80000,Group stage,France,1998,1998-06-10,2,1,home_win,1.0,72.0,CONMEBOL,41.0,48.0,UEFA,40.0,24.0,71.18102653846155,62.71133875,8.469687788461549
+Morocco,Norway,29750,Group stage,France,1998,1998-06-10,2,2,draw,13.0,57.0,CAF,7.0,60.0,UEFA,-6.0,-3.0,62.09039384615384,61.37427692307692,0.7161169230769175
+Cameroon,Austria,36500,Group stage,France,1998,1998-06-11,1,1,draw,49.0,45.0,CAF,31.0,52.0,UEFA,-18.0,-7.0,59.91948615384615,63.952364230769234,-4.032878076923083
+Italy,Chile,35200,Group stage,France,1998,1998-06-11,2,2,draw,14.0,57.0,UEFA,9.0,59.0,CONMEBOL,-5.0,-2.0,68.45827307692308,63.52331596153847,4.934957115384606
+France,South Africa,55000,Group stage,France,1998,1998-06-12,3,0,home_win,18.0,56.0,UEFA,24.0,55.0,CAF,6.0,1.0,69.714,58.53896730769231,11.175032692307688
+Saudi Arabia,Denmark,38100,Group stage,France,1998,1998-06-12,0,1,away_win,34.0,51.0,AFC,27.0,53.0,UEFA,-7.0,-2.0,57.83005211538461,64.05919923076922,-6.229147115384613
+Paraguay,Bulgaria,27650,Group stage,France,1998,1998-06-12,0,0,draw,29.0,52.0,CONMEBOL,35.0,50.0,UEFA,6.0,2.0,61.38765480769232,52.81303951923076,8.574615288461558
+Netherlands,Belgium,77000,Group stage,France,1998,1998-06-13,0,0,draw,25.0,54.0,UEFA,36.0,50.0,UEFA,11.0,4.0,66.82286346153847,67.93338076923077,-1.110517307692291
+South Korea,Mexico,39100,Group stage,France,1998,1998-06-13,1,3,away_win,20.0,55.0,AFC,4.0,61.0,CONCACAF,-16.0,-6.0,,64.15167115384617,
+Spain,Nigeria,38000,Group stage,France,1998,1998-06-13,2,3,away_win,15.0,56.0,UEFA,74.0,37.0,CAF,59.0,19.0,71.50423846153845,60.60471115384616,10.899527307692289
+Jamaica,Croatia,38100,Group stage,France,1998,1998-06-14,1,3,away_win,30.0,52.0,CONCACAF,19.0,56.0,UEFA,-11.0,-4.0,52.60554907692308,65.74488538461539,-13.139336307692304
+FR Yugoslavia,Iran,36000,Group stage,France,1998,1998-06-14,1,0,home_win,,,,42.0,48.0,AFC,,,,53.570152000000014,
+Argentina,Japan,33500,Group stage,France,1998,1998-06-14,1,0,home_win,6.0,60.0,CONMEBOL,12.0,58.0,AFC,6.0,2.0,67.99343846153849,61.568284519230765,6.425153942307723
+England,Tunisia,54587,Group stage,France,1998,1998-06-15,2,0,home_win,5.0,60.0,UEFA,21.0,55.0,CAF,16.0,5.0,68.18326346153846,56.97818234615384,11.205081115384623
+Germany,United States,49000,Group stage,France,1998,1998-06-15,2,0,home_win,2.0,65.0,UEFA,11.0,58.0,CONCACAF,9.0,7.0,69.83241730769232,62.40566538461539,7.426751923076935
+Romania,Colombia,43300,Group stage,France,1998,1998-06-15,1,0,home_win,22.0,55.0,UEFA,10.0,58.0,CONMEBOL,-12.0,-3.0,59.02940903846154,64.20907144230769,-5.179662403846152
+Brazil,Morocco,38500,Group stage,France,1998,1998-06-16,3,0,home_win,1.0,72.0,CONMEBOL,13.0,57.0,CAF,12.0,15.0,71.18102653846155,62.09039384615384,9.090632692307715
+Scotland,Norway,31800,Group stage,France,1998,1998-06-16,1,1,draw,41.0,48.0,UEFA,7.0,60.0,UEFA,-34.0,-12.0,62.71133875,61.37427692307692,1.3370618269230832
+Italy,Cameroon,35500,Group stage,France,1998,1998-06-17,3,0,home_win,14.0,57.0,UEFA,49.0,45.0,CAF,35.0,12.0,68.45827307692308,59.91948615384615,8.538786923076927
+Chile,Austria,36000,Group stage,France,1998,1998-06-17,1,1,draw,9.0,59.0,CONMEBOL,31.0,52.0,UEFA,22.0,7.0,63.52331596153847,63.952364230769234,-0.429048269230762
+France,Saudi Arabia,80000,Group stage,France,1998,1998-06-18,4,0,home_win,18.0,56.0,UEFA,34.0,51.0,AFC,16.0,5.0,69.714,57.83005211538461,11.883947884615388
+South Africa,Denmark,33500,Group stage,France,1998,1998-06-18,1,1,draw,24.0,55.0,CAF,27.0,53.0,UEFA,3.0,2.0,58.53896730769231,64.05919923076922,-5.5202319230769135
+Spain,Paraguay,36000,Group stage,France,1998,1998-06-19,0,0,draw,15.0,56.0,UEFA,29.0,52.0,CONMEBOL,14.0,4.0,71.50423846153845,61.38765480769232,10.116583653846128
+Nigeria,Bulgaria,48000,Group stage,France,1998,1998-06-19,1,0,home_win,74.0,37.0,CAF,35.0,50.0,UEFA,-39.0,-13.0,60.60471115384616,52.81303951923076,7.791671634615398
+Netherlands,South Korea,55000,Group stage,France,1998,1998-06-20,5,0,home_win,25.0,54.0,UEFA,20.0,55.0,AFC,-5.0,-1.0,66.82286346153847,,
+Belgium,Mexico,31800,Group stage,France,1998,1998-06-20,2,2,draw,36.0,50.0,UEFA,4.0,61.0,CONCACAF,-32.0,-11.0,67.93338076923077,64.15167115384617,3.7817096153845995
+Japan,Croatia,35500,Group stage,France,1998,1998-06-20,0,1,away_win,12.0,58.0,AFC,19.0,56.0,UEFA,7.0,2.0,61.568284519230765,65.74488538461539,-4.176600865384621
+Germany,FR Yugoslavia,41275,Group stage,France,1998,1998-06-21,2,2,draw,2.0,65.0,UEFA,,,,,,69.83241730769232,,
+Argentina,Jamaica,45500,Group stage,France,1998,1998-06-21,5,0,home_win,6.0,60.0,CONMEBOL,30.0,52.0,CONCACAF,24.0,8.0,67.99343846153849,52.60554907692308,15.387889384615406
+United States,Iran,43300,Group stage,France,1998,1998-06-21,1,2,away_win,11.0,58.0,CONCACAF,42.0,48.0,AFC,31.0,10.0,62.40566538461539,53.570152000000014,8.835513384615375
+Colombia,Tunisia,35500,Group stage,France,1998,1998-06-22,1,0,home_win,10.0,58.0,CONMEBOL,21.0,55.0,CAF,11.0,3.0,64.20907144230769,56.97818234615384,7.230889096153852
+Romania,England,33140,Group stage,France,1998,1998-06-22,2,1,home_win,22.0,55.0,UEFA,5.0,60.0,UEFA,-17.0,-5.0,59.02940903846154,68.18326346153846,-9.153854423076922
+Scotland,Morocco,36000,Group stage,France,1998,1998-06-23,0,3,away_win,41.0,48.0,UEFA,13.0,57.0,CAF,-28.0,-9.0,62.71133875,62.09039384615384,0.6209449038461656
+Brazil,Norway,57000,Group stage,France,1998,1998-06-23,1,2,away_win,1.0,72.0,CONMEBOL,7.0,60.0,UEFA,6.0,12.0,71.18102653846155,61.37427692307692,9.806749615384632
+Chile,Cameroon,39500,Group stage,France,1998,1998-06-23,1,1,draw,9.0,59.0,CONMEBOL,49.0,45.0,CAF,40.0,14.0,63.52331596153847,59.91948615384615,3.603829807692321
+Italy,Austria,80000,Group stage,France,1998,1998-06-23,2,1,home_win,14.0,57.0,UEFA,31.0,52.0,UEFA,17.0,5.0,68.45827307692308,63.952364230769234,4.505908846153844
+Nigeria,Paraguay,33400,Group stage,France,1998,1998-06-24,1,3,away_win,74.0,37.0,CAF,29.0,52.0,CONMEBOL,-45.0,-15.0,60.60471115384616,61.38765480769232,-0.7829436538461607
+Spain,Bulgaria,41275,Group stage,France,1998,1998-06-24,6,1,home_win,15.0,56.0,UEFA,35.0,50.0,UEFA,20.0,6.0,71.50423846153845,52.81303951923076,18.691198942307686
+France,Denmark,39100,Group stage,France,1998,1998-06-24,2,1,home_win,18.0,56.0,UEFA,27.0,53.0,UEFA,9.0,3.0,69.714,64.05919923076922,5.654800769230775
+South Africa,Saudi Arabia,31800,Group stage,France,1998,1998-06-24,2,2,draw,24.0,55.0,CAF,34.0,51.0,AFC,10.0,4.0,58.53896730769231,57.83005211538461,0.7089151923076997
+Belgium,South Korea,45500,Group stage,France,1998,1998-06-25,1,1,draw,36.0,50.0,UEFA,20.0,55.0,AFC,-16.0,-5.0,67.93338076923077,,
+Netherlands,Mexico,30600,Group stage,France,1998,1998-06-25,2,2,draw,25.0,54.0,UEFA,4.0,61.0,CONCACAF,-21.0,-7.0,66.82286346153847,64.15167115384617,2.6711923076923085
+Germany,Iran,35500,Group stage,France,1998,1998-06-25,2,0,home_win,2.0,65.0,UEFA,42.0,48.0,AFC,40.0,17.0,69.83241730769232,53.570152000000014,16.26226530769231
+United States,FR Yugoslavia,38500,Group stage,France,1998,1998-06-25,0,1,away_win,11.0,58.0,CONCACAF,,,,,,62.40566538461539,,
+Colombia,England,42000,Group stage,France,1998,1998-06-26,0,2,away_win,10.0,58.0,CONMEBOL,5.0,60.0,UEFA,-5.0,-2.0,64.20907144230769,68.18326346153846,-3.9741920192307703
+Japan,Jamaica,39100,Group stage,France,1998,1998-06-26,1,2,away_win,12.0,58.0,AFC,30.0,52.0,CONCACAF,18.0,6.0,61.568284519230765,52.60554907692308,8.962735442307682
+Argentina,Croatia,31800,Group stage,France,1998,1998-06-26,1,0,home_win,6.0,60.0,CONMEBOL,19.0,56.0,UEFA,13.0,4.0,67.99343846153849,65.74488538461539,2.248553076923102
+Romania,Tunisia,80000,Group stage,France,1998,1998-06-26,1,1,draw,22.0,55.0,UEFA,21.0,55.0,CAF,-1.0,0.0,59.02940903846154,56.97818234615384,2.0512266923077007
+Brazil,Chile,45500,Round of 16,France,1998,1998-06-27,4,1,home_win,1.0,72.0,CONMEBOL,9.0,59.0,CONMEBOL,8.0,13.0,71.18102653846155,63.52331596153847,7.65771057692308
+Italy,Norway,55000,Round of 16,France,1998,1998-06-27,1,0,home_win,14.0,57.0,UEFA,7.0,60.0,UEFA,-7.0,-3.0,68.45827307692308,61.37427692307692,7.083996153846158
+Nigeria,Denmark,77000,Round of 16,France,1998,1998-06-28,1,4,away_win,74.0,37.0,CAF,27.0,53.0,UEFA,-47.0,-16.0,60.60471115384616,64.05919923076922,-3.454488076923063
+France,Paraguay,31800,Round of 16,France,1998,1998-06-28,1,0,home_win,18.0,56.0,UEFA,29.0,52.0,CONMEBOL,11.0,4.0,69.714,61.38765480769232,8.326345192307677
+Netherlands,FR Yugoslavia,33000,Round of 16,France,1998,1998-06-29,2,1,home_win,25.0,54.0,UEFA,,,,,,66.82286346153847,,
+Germany,Mexico,29800,Round of 16,France,1998,1998-06-29,2,1,home_win,2.0,65.0,UEFA,4.0,61.0,CONCACAF,2.0,4.0,69.83241730769232,64.15167115384617,5.680746153846158
+Argentina,England,30600,Round of 16,France,1998,1998-06-30,2,2,draw,6.0,60.0,CONMEBOL,5.0,60.0,UEFA,-1.0,0.0,67.99343846153849,68.18326346153846,-0.1898249999999706
+Romania,Croatia,31800,Round of 16,France,1998,1998-06-30,0,1,away_win,22.0,55.0,UEFA,19.0,56.0,UEFA,-3.0,-1.0,59.02940903846154,65.74488538461539,-6.715476346153849
+Italy,France,80000,Quarter-finals,France,1998,1998-07-03,0,0,draw,14.0,57.0,UEFA,18.0,56.0,UEFA,4.0,1.0,68.45827307692308,69.714,-1.2557269230769208
+Brazil,Denmark,49500,Quarter-finals,France,1998,1998-07-03,3,2,home_win,1.0,72.0,CONMEBOL,27.0,53.0,UEFA,26.0,19.0,71.18102653846155,64.05919923076922,7.121827307692328
+Germany,Croatia,43300,Quarter-finals,France,1998,1998-07-04,0,3,away_win,2.0,65.0,UEFA,19.0,56.0,UEFA,17.0,9.0,69.83241730769232,65.74488538461539,4.087531923076938
+Netherlands,Argentina,60000,Quarter-finals,France,1998,1998-07-04,2,1,home_win,25.0,54.0,UEFA,6.0,60.0,CONMEBOL,-19.0,-6.0,66.82286346153847,67.99343846153849,-1.1705750000000137
+Brazil,Netherlands,60000,Semi-finals,France,1998,1998-07-07,1,1,draw,1.0,72.0,CONMEBOL,25.0,54.0,UEFA,24.0,18.0,71.18102653846155,66.82286346153847,4.358163076923077
+France,Croatia,80000,Semi-finals,France,1998,1998-07-08,2,1,home_win,18.0,56.0,UEFA,19.0,56.0,UEFA,1.0,0.0,69.714,65.74488538461539,3.969114615384612
+Netherlands,Croatia,44000,Third-place match,France,1998,1998-07-11,1,2,away_win,25.0,54.0,UEFA,19.0,56.0,UEFA,-6.0,-2.0,66.82286346153847,65.74488538461539,1.0779780769230882
+Brazil,France,80000,Final,France,1998,1998-07-12,0,3,away_win,1.0,72.0,CONMEBOL,18.0,56.0,UEFA,17.0,16.0,71.18102653846155,69.714,1.4670265384615533
+France,Senegal,62561,Group stage,"Korea Republic, Japan",2002,2002-05-31,0,1,away_win,1.0,802.0,UEFA,42.0,599.0,CAF,41.0,203.0,69.714,62.96990692307693,6.744093076923072
+Germany,Saudi Arabia,32218,Group stage,"Korea Republic, Japan",2002,2002-06-01,8,0,home_win,11.0,695.0,UEFA,34.0,627.0,AFC,23.0,68.0,69.83241730769232,57.83005211538461,12.002365192307714
+Uruguay,Denmark,30157,Group stage,"Korea Republic, Japan",2002,2002-06-01,1,2,away_win,24.0,652.0,CONMEBOL,20.0,657.0,UEFA,-4.0,-5.0,65.00322653846155,64.05919923076922,0.9440273076923233
+Republic of Ireland,Cameroon,33679,Group stage,"Korea Republic, Japan",2002,2002-06-01,1,1,draw,15.0,674.0,UEFA,17.0,672.0,CAF,2.0,2.0,61.54500153846156,59.91948615384615,1.6255153846154116
+Spain,Slovenia,28588,Group stage,"Korea Republic, Japan",2002,2002-06-02,3,1,home_win,8.0,713.0,UEFA,25.0,649.0,UEFA,17.0,64.0,71.50423846153845,59.45073961538462,12.053498846153829
+England,Sweden,52721,Group stage,"Korea Republic, Japan",2002,2002-06-02,1,1,draw,12.0,694.0,UEFA,19.0,665.0,UEFA,7.0,29.0,68.18326346153846,62.87979807692308,5.303465384615379
+Paraguay,South Africa,25186,Group stage,"Korea Republic, Japan",2002,2002-06-02,2,2,draw,18.0,671.0,CONMEBOL,37.0,623.0,CAF,19.0,48.0,61.38765480769232,58.53896730769231,2.848687500000011
+Argentina,Nigeria,34050,Group stage,"Korea Republic, Japan",2002,2002-06-02,1,0,home_win,3.0,784.0,CONMEBOL,27.0,644.0,CAF,24.0,140.0,67.99343846153849,60.60471115384616,7.388727307692328
+Croatia,Mexico,32239,Group stage,"Korea Republic, Japan",2002,2002-06-03,0,1,away_win,21.0,655.0,UEFA,7.0,716.0,CONCACAF,-14.0,-61.0,65.74488538461539,64.15167115384617,1.5932142307692203
+Italy,Ecuador,31081,Group stage,"Korea Republic, Japan",2002,2002-06-03,2,0,home_win,6.0,717.0,UEFA,36.0,624.0,CONMEBOL,30.0,93.0,68.45827307692308,57.17906759615385,11.279205480769228
+Brazil,Turkey,33842,Group stage,"Korea Republic, Japan",2002,2002-06-03,2,1,home_win,2.0,784.0,CONMEBOL,22.0,654.0,UEFA,20.0,130.0,71.18102653846155,63.71142807692308,7.4695984615384745
+South Korea,Poland,48760,Group stage,"Korea Republic, Japan",2002,2002-06-04,2,0,home_win,40.0,603.0,AFC,38.0,615.0,UEFA,-2.0,-12.0,,61.76560730769231,
+Japan,Belgium,55256,Group stage,"Korea Republic, Japan",2002,2002-06-04,2,2,draw,32.0,634.0,AFC,23.0,653.0,UEFA,-9.0,-19.0,61.568284519230765,67.93338076923077,-6.365096250000001
+China PR,Costa Rica,27217,Group stage,"Korea Republic, Japan",2002,2002-06-04,0,2,away_win,50.0,566.0,AFC,29.0,643.0,CONCACAF,-21.0,-77.0,58.298825865384615,54.76753863461539,3.531287230769223
+Germany,Republic of Ireland,35854,Group stage,"Korea Republic, Japan",2002,2002-06-05,1,1,draw,11.0,695.0,UEFA,15.0,674.0,UEFA,4.0,21.0,69.83241730769232,61.54500153846156,8.287415769230762
+United States,Portugal,37306,Group stage,"Korea Republic, Japan",2002,2002-06-05,3,2,home_win,13.0,690.0,CONCACAF,5.0,726.0,UEFA,-8.0,-36.0,62.40566538461539,68.66904192307692,-6.263376538461529
+Russia,Tunisia,30957,Group stage,"Korea Republic, Japan",2002,2002-06-05,2,0,home_win,28.0,644.0,UEFA,31.0,635.0,CAF,3.0,9.0,63.45978846153847,56.97818234615384,6.481606115384636
+France,Uruguay,38070,Group stage,"Korea Republic, Japan",2002,2002-06-06,0,0,draw,1.0,802.0,UEFA,24.0,652.0,CONMEBOL,23.0,150.0,69.714,65.00322653846155,4.710773461538452
+Cameroon,Saudi Arabia,52328,Group stage,"Korea Republic, Japan",2002,2002-06-06,1,0,home_win,17.0,672.0,CAF,34.0,627.0,AFC,17.0,45.0,59.91948615384615,57.83005211538461,2.0894340384615404
+Denmark,Senegal,43500,Group stage,"Korea Republic, Japan",2002,2002-06-06,1,1,draw,20.0,657.0,UEFA,42.0,599.0,CAF,22.0,58.0,64.05919923076922,62.96990692307693,1.089292307692297
+Argentina,England,35927,Group stage,"Korea Republic, Japan",2002,2002-06-07,0,1,away_win,3.0,784.0,CONMEBOL,12.0,694.0,UEFA,9.0,90.0,67.99343846153849,68.18326346153846,-0.1898249999999706
+Spain,Paraguay,24000,Group stage,"Korea Republic, Japan",2002,2002-06-07,3,1,home_win,8.0,713.0,UEFA,18.0,671.0,CONMEBOL,10.0,42.0,71.50423846153845,61.38765480769232,10.116583653846128
+Sweden,Nigeria,36194,Group stage,"Korea Republic, Japan",2002,2002-06-07,2,1,home_win,19.0,665.0,UEFA,27.0,644.0,CAF,8.0,21.0,62.87979807692308,60.60471115384616,2.2750869230769197
+South Africa,Slovenia,47226,Group stage,"Korea Republic, Japan",2002,2002-06-08,1,0,home_win,37.0,623.0,CAF,25.0,649.0,UEFA,-12.0,-26.0,58.53896730769231,59.45073961538462,-0.9117723076923099
+Italy,Croatia,36472,Group stage,"Korea Republic, Japan",2002,2002-06-08,1,2,away_win,6.0,717.0,UEFA,21.0,655.0,UEFA,15.0,62.0,68.45827307692308,65.74488538461539,2.713387692307691
+Brazil,China PR,36750,Group stage,"Korea Republic, Japan",2002,2002-06-08,4,0,home_win,2.0,784.0,CONMEBOL,50.0,566.0,AFC,48.0,218.0,71.18102653846155,58.298825865384615,12.882200673076937
+Mexico,Ecuador,45610,Group stage,"Korea Republic, Japan",2002,2002-06-09,2,1,home_win,7.0,716.0,CONCACAF,36.0,624.0,CONMEBOL,29.0,92.0,64.15167115384617,57.17906759615385,6.972603557692317
+Japan,Russia,66108,Group stage,"Korea Republic, Japan",2002,2002-06-09,1,0,home_win,32.0,634.0,AFC,28.0,644.0,UEFA,-4.0,-10.0,61.568284519230765,63.45978846153847,-1.8915039423077076
+Costa Rica,Turkey,42299,Group stage,"Korea Republic, Japan",2002,2002-06-09,1,1,draw,29.0,643.0,CONCACAF,22.0,654.0,UEFA,-7.0,-11.0,54.76753863461539,63.71142807692308,-8.943889442307686
+South Korea,United States,60778,Group stage,"Korea Republic, Japan",2002,2002-06-10,1,1,draw,40.0,603.0,AFC,13.0,690.0,CONCACAF,-27.0,-87.0,,62.40566538461539,
+Portugal,Poland,31000,Group stage,"Korea Republic, Japan",2002,2002-06-10,4,0,home_win,5.0,726.0,UEFA,38.0,615.0,UEFA,33.0,111.0,68.66904192307692,61.76560730769231,6.903434615384612
+Tunisia,Belgium,39700,Group stage,"Korea Republic, Japan",2002,2002-06-10,1,1,draw,31.0,635.0,CAF,23.0,653.0,UEFA,-8.0,-18.0,56.97818234615384,67.93338076923077,-10.95519842307693
+Denmark,France,48100,Group stage,"Korea Republic, Japan",2002,2002-06-11,2,0,home_win,20.0,657.0,UEFA,1.0,802.0,UEFA,-19.0,-145.0,64.05919923076922,69.714,-5.654800769230775
+Cameroon,Germany,47085,Group stage,"Korea Republic, Japan",2002,2002-06-11,0,2,away_win,17.0,672.0,CAF,11.0,695.0,UEFA,-6.0,-23.0,59.91948615384615,69.83241730769232,-9.912931153846174
+Saudi Arabia,Republic of Ireland,65320,Group stage,"Korea Republic, Japan",2002,2002-06-11,0,3,away_win,34.0,627.0,AFC,15.0,674.0,UEFA,-19.0,-47.0,57.83005211538461,61.54500153846156,-3.714949423076952
+Senegal,Uruguay,33681,Group stage,"Korea Republic, Japan",2002,2002-06-11,3,3,draw,42.0,599.0,CAF,24.0,652.0,CONMEBOL,-18.0,-53.0,62.96990692307693,65.00322653846155,-2.0333196153846202
+Slovenia,Paraguay,30176,Group stage,"Korea Republic, Japan",2002,2002-06-12,1,3,away_win,25.0,649.0,UEFA,18.0,671.0,CONMEBOL,-7.0,-22.0,59.45073961538462,61.38765480769232,-1.9369151923077013
+South Africa,Spain,31024,Group stage,"Korea Republic, Japan",2002,2002-06-12,2,3,away_win,37.0,623.0,CAF,8.0,713.0,UEFA,-29.0,-90.0,58.53896730769231,71.50423846153845,-12.965271153846139
+Nigeria,England,44864,Group stage,"Korea Republic, Japan",2002,2002-06-12,0,0,draw,27.0,644.0,CAF,12.0,694.0,UEFA,-15.0,-50.0,60.60471115384616,68.18326346153846,-7.5785523076922985
+Sweden,Argentina,45777,Group stage,"Korea Republic, Japan",2002,2002-06-12,1,1,draw,19.0,665.0,UEFA,3.0,784.0,CONMEBOL,-16.0,-119.0,62.87979807692308,67.99343846153849,-5.113640384615408
+Ecuador,Croatia,65862,Group stage,"Korea Republic, Japan",2002,2002-06-13,1,0,home_win,36.0,624.0,CONMEBOL,21.0,655.0,UEFA,-15.0,-31.0,57.17906759615385,65.74488538461539,-8.565817788461537
+Mexico,Italy,39291,Group stage,"Korea Republic, Japan",2002,2002-06-13,1,1,draw,7.0,716.0,CONCACAF,6.0,717.0,UEFA,-1.0,-1.0,64.15167115384617,68.45827307692308,-4.3066019230769115
+Turkey,China PR,43605,Group stage,"Korea Republic, Japan",2002,2002-06-13,3,0,home_win,22.0,654.0,UEFA,50.0,566.0,AFC,28.0,88.0,63.71142807692308,58.298825865384615,5.412602211538463
+Costa Rica,Brazil,38524,Group stage,"Korea Republic, Japan",2002,2002-06-13,2,5,away_win,29.0,643.0,CONCACAF,2.0,784.0,CONMEBOL,-27.0,-141.0,54.76753863461539,71.18102653846155,-16.41348790384616
+Tunisia,Japan,45213,Group stage,"Korea Republic, Japan",2002,2002-06-14,0,2,away_win,31.0,635.0,CAF,32.0,634.0,AFC,1.0,1.0,56.97818234615384,61.568284519230765,-4.590102173076929
+Portugal,South Korea,50239,Group stage,"Korea Republic, Japan",2002,2002-06-14,0,1,away_win,5.0,726.0,UEFA,40.0,603.0,AFC,35.0,123.0,68.66904192307692,,
+Belgium,Russia,46640,Group stage,"Korea Republic, Japan",2002,2002-06-14,3,2,home_win,23.0,653.0,UEFA,28.0,644.0,UEFA,5.0,9.0,67.93338076923077,63.45978846153847,4.473592307692293
+Poland,United States,26482,Group stage,"Korea Republic, Japan",2002,2002-06-14,3,1,home_win,38.0,615.0,UEFA,13.0,690.0,CONCACAF,-25.0,-75.0,61.76560730769231,62.40566538461539,-0.6400580769230828
+Denmark,England,40582,Round of 16,"Korea Republic, Japan",2002,2002-06-15,0,3,away_win,20.0,657.0,UEFA,12.0,694.0,UEFA,-8.0,-37.0,64.05919923076922,68.18326346153846,-4.1240642307692355
+Germany,Paraguay,25176,Round of 16,"Korea Republic, Japan",2002,2002-06-15,1,0,home_win,11.0,695.0,UEFA,18.0,671.0,CONMEBOL,7.0,24.0,69.83241730769232,61.38765480769232,8.444762500000003
+Spain,Republic of Ireland,38926,Round of 16,"Korea Republic, Japan",2002,2002-06-16,1,1,draw,8.0,713.0,UEFA,15.0,674.0,UEFA,7.0,39.0,71.50423846153845,61.54500153846156,9.959236923076887
+Sweden,Senegal,39747,Round of 16,"Korea Republic, Japan",2002,2002-06-16,1,2,away_win,19.0,665.0,UEFA,42.0,599.0,CAF,23.0,66.0,62.87979807692308,62.96990692307693,-0.0901088461538464
+Brazil,Belgium,40440,Round of 16,"Korea Republic, Japan",2002,2002-06-17,2,0,home_win,2.0,784.0,CONMEBOL,23.0,653.0,UEFA,21.0,131.0,71.18102653846155,67.93338076923077,3.247645769230786
+Mexico,United States,36380,Round of 16,"Korea Republic, Japan",2002,2002-06-17,0,2,away_win,7.0,716.0,CONCACAF,13.0,690.0,CONCACAF,6.0,26.0,64.15167115384617,62.40566538461539,1.746005769230777
+Japan,Turkey,45666,Round of 16,"Korea Republic, Japan",2002,2002-06-18,0,1,away_win,32.0,634.0,AFC,22.0,654.0,UEFA,-10.0,-20.0,61.568284519230765,63.71142807692308,-2.143143557692312
+South Korea,Italy,38588,Round of 16,"Korea Republic, Japan",2002,2002-06-18,2,1,home_win,40.0,603.0,AFC,6.0,717.0,UEFA,-34.0,-114.0,,68.45827307692308,
+England,Brazil,47436,Quarter-finals,"Korea Republic, Japan",2002,2002-06-21,1,2,away_win,12.0,694.0,UEFA,2.0,784.0,CONMEBOL,-10.0,-90.0,68.18326346153846,71.18102653846155,-2.9977630769230927
+Germany,United States,37337,Quarter-finals,"Korea Republic, Japan",2002,2002-06-21,1,0,home_win,11.0,695.0,UEFA,13.0,690.0,CONCACAF,2.0,5.0,69.83241730769232,62.40566538461539,7.426751923076935
+Senegal,Turkey,44233,Quarter-finals,"Korea Republic, Japan",2002,2002-06-22,0,1,away_win,42.0,599.0,CAF,22.0,654.0,UEFA,-20.0,-55.0,62.96990692307693,63.71142807692308,-0.7415211538461506
+Spain,South Korea,42114,Quarter-finals,"Korea Republic, Japan",2002,2002-06-22,0,0,draw,8.0,713.0,UEFA,40.0,603.0,AFC,32.0,110.0,71.50423846153845,,
+Germany,South Korea,65625,Semi-finals,"Korea Republic, Japan",2002,2002-06-25,1,0,home_win,11.0,695.0,UEFA,40.0,603.0,AFC,29.0,92.0,69.83241730769232,,
+Brazil,Turkey,61058,Semi-finals,"Korea Republic, Japan",2002,2002-06-26,1,0,home_win,2.0,784.0,CONMEBOL,22.0,654.0,UEFA,20.0,130.0,71.18102653846155,63.71142807692308,7.4695984615384745
+South Korea,Turkey,63483,Third-place match,"Korea Republic, Japan",2002,2002-06-29,2,3,away_win,40.0,603.0,AFC,22.0,654.0,UEFA,-18.0,-51.0,,63.71142807692308,
+Germany,Brazil,69029,Final,"Korea Republic, Japan",2002,2002-06-30,0,2,away_win,11.0,695.0,UEFA,2.0,784.0,CONMEBOL,-9.0,-89.0,69.83241730769232,71.18102653846155,-1.3486092307692275
+Poland,Ecuador,52000,Group stage,Germany,2006,2006-06-09,0,2,away_win,29.0,677.0,UEFA,39.0,631.0,CONMEBOL,10.0,46.0,61.76560730769231,57.17906759615385,4.586539711538457
+Germany,Costa Rica,64950,Group stage,Germany,2006,2006-06-09,4,2,home_win,19.0,696.0,UEFA,26.0,683.0,CONCACAF,7.0,13.0,69.83241730769232,54.76753863461539,15.064878673076933
+Argentina,Côte d'Ivoire,49480,Group stage,Germany,2006,2006-06-10,2,1,home_win,9.0,746.0,CONMEBOL,32.0,669.0,CAF,23.0,77.0,67.99343846153849,,
+Trinidad and Tobago,Sweden,62959,Group stage,Germany,2006,2006-06-10,0,0,draw,47.0,604.0,CONCACAF,16.0,709.0,UEFA,-31.0,-105.0,,62.87979807692308,
+England,Paraguay,48000,Group stage,Germany,2006,2006-06-10,1,0,home_win,10.0,741.0,UEFA,33.0,653.0,CONMEBOL,23.0,88.0,68.18326346153846,61.38765480769232,6.795608653846138
+Serbia and Montenegro,Netherlands,37216,Group stage,Germany,2006,2006-06-11,0,1,away_win,44.0,610.0,UEFA,3.0,768.0,UEFA,-41.0,-158.0,,66.82286346153847,
+Angola,Portugal,45000,Group stage,Germany,2006,2006-06-11,0,1,away_win,57.0,581.0,CAF,7.0,750.0,UEFA,-50.0,-169.0,54.572860769230765,68.66904192307692,-14.096181153846153
+Mexico,Iran,41000,Group stage,Germany,2006,2006-06-11,3,1,home_win,4.0,758.0,CONCACAF,23.0,686.0,AFC,19.0,72.0,64.15167115384617,53.570152000000014,10.581519153846152
+United States,Czech Republic,52000,Group stage,Germany,2006,2006-06-12,0,3,away_win,5.0,756.0,CONCACAF,,,,,,62.40566538461539,61.943609807692326,0.4620555769230634
+Australia,Japan,46000,Group stage,Germany,2006,2006-06-12,3,1,home_win,42.0,612.0,AFC,18.0,705.0,AFC,-24.0,-93.0,59.69487971153847,61.568284519230765,-1.873404807692296
+Italy,Ghana,43000,Group stage,Germany,2006,2006-06-12,2,0,home_win,13.0,728.0,UEFA,48.0,600.0,CAF,35.0,128.0,68.45827307692308,63.09506576923078,5.363207307692299
+Brazil,Croatia,72000,Group stage,Germany,2006,2006-06-13,1,0,home_win,1.0,827.0,CONMEBOL,23.0,686.0,UEFA,22.0,141.0,71.18102653846155,65.74488538461539,5.436141153846165
+France,Switzerland,52000,Group stage,Germany,2006,2006-06-13,0,0,draw,8.0,749.0,UEFA,35.0,648.0,UEFA,27.0,101.0,69.714,64.68190576923077,5.032094230769232
+South Korea,Togo,48000,Group stage,Germany,2006,2006-06-13,2,1,home_win,29.0,677.0,AFC,61.0,569.0,CAF,32.0,108.0,,54.96459611363636,
+Germany,Poland,65000,Group stage,Germany,2006,2006-06-14,1,0,home_win,19.0,696.0,UEFA,29.0,677.0,UEFA,10.0,19.0,69.83241730769232,61.76560730769231,8.066810000000018
+Tunisia,Saudi Arabia,66000,Group stage,Germany,2006,2006-06-14,2,2,draw,21.0,693.0,CAF,34.0,651.0,AFC,13.0,42.0,56.97818234615384,57.83005211538461,-0.851869769230774
+Spain,Ukraine,43000,Group stage,Germany,2006,2006-06-14,4,0,home_win,5.0,756.0,UEFA,45.0,609.0,UEFA,40.0,147.0,71.50423846153845,62.22655134615384,9.277687115384609
+Sweden,Paraguay,72000,Group stage,Germany,2006,2006-06-15,1,0,home_win,16.0,709.0,UEFA,33.0,653.0,CONMEBOL,17.0,56.0,62.87979807692308,61.38765480769232,1.492143269230759
+England,Trinidad and Tobago,41000,Group stage,Germany,2006,2006-06-15,2,0,home_win,10.0,741.0,UEFA,47.0,604.0,CONCACAF,37.0,137.0,68.18326346153846,,
+Ecuador,Costa Rica,50000,Group stage,Germany,2006,2006-06-15,3,0,home_win,39.0,631.0,CONMEBOL,26.0,683.0,CONCACAF,-13.0,-52.0,57.17906759615385,54.76753863461539,2.4115289615384583
+Argentina,Serbia and Montenegro,52000,Group stage,Germany,2006,2006-06-16,6,0,home_win,9.0,746.0,CONMEBOL,44.0,610.0,UEFA,35.0,136.0,67.99343846153849,,
+Netherlands,Côte d'Ivoire,52000,Group stage,Germany,2006,2006-06-16,2,1,home_win,3.0,768.0,UEFA,32.0,669.0,CAF,29.0,99.0,66.82286346153847,,
+Mexico,Angola,43000,Group stage,Germany,2006,2006-06-16,0,0,draw,4.0,758.0,CONCACAF,57.0,581.0,CAF,53.0,177.0,64.15167115384617,54.572860769230765,9.578810384615402
+Portugal,Iran,48000,Group stage,Germany,2006,2006-06-17,2,0,home_win,7.0,750.0,UEFA,23.0,686.0,AFC,16.0,64.0,68.66904192307692,53.570152000000014,15.098889923076904
+Italy,United States,46000,Group stage,Germany,2006,2006-06-17,1,1,draw,13.0,728.0,UEFA,5.0,756.0,CONCACAF,-8.0,-28.0,68.45827307692308,62.40566538461539,6.052607692307689
+Czech Republic,Ghana,45000,Group stage,Germany,2006,2006-06-17,0,2,away_win,,,,48.0,600.0,CAF,,,61.943609807692326,63.09506576923078,-1.1514559615384528
+Japan,Croatia,41000,Group stage,Germany,2006,2006-06-18,0,0,draw,18.0,705.0,AFC,23.0,686.0,UEFA,5.0,19.0,61.568284519230765,65.74488538461539,-4.176600865384621
+France,South Korea,43000,Group stage,Germany,2006,2006-06-18,1,1,draw,8.0,749.0,UEFA,29.0,677.0,AFC,21.0,72.0,69.714,,
+Brazil,Australia,66000,Group stage,Germany,2006,2006-06-18,2,0,home_win,1.0,827.0,CONMEBOL,42.0,612.0,AFC,41.0,215.0,71.18102653846155,59.69487971153847,11.486146826923083
+Spain,Tunisia,52000,Group stage,Germany,2006,2006-06-19,3,1,home_win,5.0,756.0,UEFA,21.0,693.0,CAF,16.0,63.0,71.50423846153845,56.97818234615384,14.526056115384613
+Saudi Arabia,Ukraine,50000,Group stage,Germany,2006,2006-06-19,0,4,away_win,34.0,651.0,AFC,45.0,609.0,UEFA,11.0,42.0,57.83005211538461,62.22655134615384,-4.39649923076923
+Togo,Switzerland,65000,Group stage,Germany,2006,2006-06-19,0,2,away_win,61.0,569.0,CAF,35.0,648.0,UEFA,-26.0,-79.0,54.96459611363636,64.68190576923077,-9.717309655594406
+Sweden,England,45000,Group stage,Germany,2006,2006-06-20,2,2,draw,16.0,709.0,UEFA,10.0,741.0,UEFA,-6.0,-32.0,62.87979807692308,68.18326346153846,-5.303465384615379
+Paraguay,Trinidad and Tobago,46000,Group stage,Germany,2006,2006-06-20,2,0,home_win,33.0,653.0,CONMEBOL,47.0,604.0,CONCACAF,14.0,49.0,61.38765480769232,,
+Ecuador,Germany,72000,Group stage,Germany,2006,2006-06-20,0,3,away_win,39.0,631.0,CONMEBOL,19.0,696.0,UEFA,-20.0,-65.0,57.17906759615385,69.83241730769232,-12.653349711538475
+Costa Rica,Poland,43000,Group stage,Germany,2006,2006-06-20,1,2,away_win,26.0,683.0,CONCACAF,29.0,677.0,UEFA,3.0,6.0,54.76753863461539,61.76560730769231,-6.998068673076915
+Portugal,Mexico,52000,Group stage,Germany,2006,2006-06-21,2,1,home_win,7.0,750.0,UEFA,4.0,758.0,CONCACAF,-3.0,-8.0,68.66904192307692,64.15167115384617,4.517370769230752
+Netherlands,Argentina,48000,Group stage,Germany,2006,2006-06-21,0,0,draw,3.0,768.0,UEFA,9.0,746.0,CONMEBOL,6.0,22.0,66.82286346153847,67.99343846153849,-1.1705750000000137
+Côte d'Ivoire,Serbia and Montenegro,66000,Group stage,Germany,2006,2006-06-21,3,2,home_win,32.0,669.0,CAF,44.0,610.0,UEFA,12.0,59.0,,,
+Iran,Angola,38000,Group stage,Germany,2006,2006-06-21,1,1,draw,23.0,686.0,AFC,57.0,581.0,CAF,34.0,105.0,53.570152000000014,54.572860769230765,-1.0027087692307504
+Croatia,Australia,52000,Group stage,Germany,2006,2006-06-22,2,2,draw,23.0,686.0,UEFA,42.0,612.0,AFC,19.0,74.0,65.74488538461539,59.69487971153847,6.050005673076917
+Japan,Brazil,65000,Group stage,Germany,2006,2006-06-22,1,4,away_win,18.0,705.0,AFC,1.0,827.0,CONMEBOL,-17.0,-122.0,61.568284519230765,71.18102653846155,-9.612742019230787
+Czech Republic,Italy,50000,Group stage,Germany,2006,2006-06-22,0,2,away_win,,,,13.0,728.0,UEFA,,,61.943609807692326,68.45827307692308,-6.514663269230752
+Ghana,United States,41000,Group stage,Germany,2006,2006-06-22,2,1,home_win,48.0,600.0,CAF,5.0,756.0,CONCACAF,-43.0,-156.0,63.09506576923078,62.40566538461539,0.6894003846153893
+Switzerland,South Korea,43000,Group stage,Germany,2006,2006-06-23,2,0,home_win,35.0,648.0,UEFA,29.0,677.0,AFC,-6.0,-29.0,64.68190576923077,,
+Togo,France,45000,Group stage,Germany,2006,2006-06-23,0,2,away_win,61.0,569.0,CAF,8.0,749.0,UEFA,-53.0,-180.0,54.96459611363636,69.714,-14.749403886363638
+Ukraine,Tunisia,72000,Group stage,Germany,2006,2006-06-23,1,0,home_win,45.0,609.0,UEFA,21.0,693.0,CAF,-24.0,-84.0,62.22655134615384,56.97818234615384,5.248369000000004
+Saudi Arabia,Spain,46000,Group stage,Germany,2006,2006-06-23,0,1,away_win,34.0,651.0,AFC,5.0,756.0,UEFA,-29.0,-105.0,57.83005211538461,71.50423846153845,-13.674186346153839
+Germany,Sweden,66000,Round of 16,Germany,2006,2006-06-24,2,0,home_win,19.0,696.0,UEFA,16.0,709.0,UEFA,-3.0,-13.0,69.83241730769232,62.87979807692308,6.952619230769244
+Argentina,Mexico,43000,Round of 16,Germany,2006,2006-06-24,2,1,home_win,9.0,746.0,CONMEBOL,4.0,758.0,CONCACAF,-5.0,-12.0,67.99343846153849,64.15167115384617,3.841767307692322
+Portugal,Netherlands,41000,Round of 16,Germany,2006,2006-06-25,1,0,home_win,7.0,750.0,UEFA,3.0,768.0,UEFA,-4.0,-18.0,68.66904192307692,66.82286346153847,1.8461784615384431
+England,Ecuador,52000,Round of 16,Germany,2006,2006-06-25,1,0,home_win,10.0,741.0,UEFA,39.0,631.0,CONMEBOL,29.0,110.0,68.18326346153846,57.17906759615385,11.00419586538461
+Switzerland,Ukraine,45000,Round of 16,Germany,2006,2006-06-26,0,0,draw,35.0,648.0,UEFA,45.0,609.0,UEFA,10.0,39.0,64.68190576923077,62.22655134615384,2.455354423076926
+Italy,Australia,46000,Round of 16,Germany,2006,2006-06-26,1,0,home_win,13.0,728.0,UEFA,42.0,612.0,AFC,29.0,116.0,68.45827307692308,59.69487971153847,8.763393365384609
+Spain,France,43000,Round of 16,Germany,2006,2006-06-27,1,3,away_win,5.0,756.0,UEFA,8.0,749.0,UEFA,3.0,7.0,71.50423846153845,69.714,1.7902384615384506
+Brazil,Ghana,65000,Round of 16,Germany,2006,2006-06-27,3,0,home_win,1.0,827.0,CONMEBOL,48.0,600.0,CAF,47.0,227.0,71.18102653846155,63.09506576923078,8.085960769230773
+Italy,Ukraine,50000,Quarter-finals,Germany,2006,2006-06-30,3,0,home_win,13.0,728.0,UEFA,45.0,609.0,UEFA,32.0,119.0,68.45827307692308,62.22655134615384,6.231721730769237
+Germany,Argentina,72000,Quarter-finals,Germany,2006,2006-06-30,1,1,draw,19.0,696.0,UEFA,9.0,746.0,CONMEBOL,-10.0,-50.0,69.83241730769232,67.99343846153849,1.8389788461538359
+Brazil,France,48000,Quarter-finals,Germany,2006,2006-07-01,0,1,away_win,1.0,827.0,CONMEBOL,8.0,749.0,UEFA,7.0,78.0,71.18102653846155,69.714,1.4670265384615533
+England,Portugal,52000,Quarter-finals,Germany,2006,2006-07-01,0,0,draw,10.0,741.0,UEFA,7.0,750.0,UEFA,-3.0,-9.0,68.18326346153846,68.66904192307692,-0.48577846153845883
+Germany,Italy,65000,Semi-finals,Germany,2006,2006-07-04,0,2,away_win,19.0,696.0,UEFA,13.0,728.0,UEFA,-6.0,-32.0,69.83241730769232,68.45827307692308,1.3741442307692466
+Portugal,France,66000,Semi-finals,Germany,2006,2006-07-05,0,1,away_win,7.0,750.0,UEFA,8.0,749.0,UEFA,1.0,1.0,68.66904192307692,69.714,-1.0449580769230806
+Germany,Portugal,52000,Third-place match,Germany,2006,2006-07-08,3,1,home_win,19.0,696.0,UEFA,7.0,750.0,UEFA,-12.0,-54.0,69.83241730769232,68.66904192307692,1.1633753846154065
+Italy,France,69000,Final,Germany,2006,2006-07-09,1,1,draw,13.0,728.0,UEFA,8.0,749.0,UEFA,-5.0,-21.0,68.45827307692308,69.714,-1.2557269230769208
+South Africa,Mexico,84490,Group stage,South Africa,2010,2010-06-11,1,1,draw,83.0,392.0,CAF,17.0,895.0,CONCACAF,-66.0,-503.0,58.53896730769231,64.15167115384617,-5.612703846153856
+Uruguay,France,64100,Group stage,South Africa,2010,2010-06-11,0,0,draw,16.0,899.0,CONMEBOL,9.0,1044.0,UEFA,-7.0,-145.0,65.00322653846155,69.714,-4.710773461538452
+England,United States,38646,Group stage,South Africa,2010,2010-06-12,1,1,draw,8.0,1068.0,UEFA,14.0,957.0,CONCACAF,6.0,111.0,68.18326346153846,62.40566538461539,5.77759807692307
+Argentina,Nigeria,55686,Group stage,South Africa,2010,2010-06-12,1,0,home_win,7.0,1076.0,CONMEBOL,21.0,883.0,CAF,14.0,193.0,67.99343846153849,60.60471115384616,7.388727307692328
+South Korea,Greece,31513,Group stage,South Africa,2010,2010-06-12,2,0,home_win,47.0,632.0,AFC,13.0,964.0,UEFA,-34.0,-332.0,,61.26938317307693,
+Germany,Australia,62660,Group stage,South Africa,2010,2010-06-13,4,0,home_win,6.0,1082.0,UEFA,20.0,886.0,AFC,14.0,196.0,69.83241730769232,59.69487971153847,10.137537596153855
+Serbia,Ghana,38833,Group stage,South Africa,2010,2010-06-13,0,1,away_win,15.0,947.0,UEFA,32.0,800.0,CAF,17.0,147.0,64.93045615384615,63.09506576923078,1.8353903846153727
+Algeria,Slovenia,30325,Group stage,South Africa,2010,2010-06-13,0,1,away_win,30.0,821.0,CAF,25.0,860.0,UEFA,-5.0,-39.0,62.31388865384615,59.45073961538462,2.863149038461529
+Italy,Paraguay,62869,Group stage,South Africa,2010,2010-06-14,1,1,draw,5.0,1184.0,UEFA,31.0,820.0,CONMEBOL,26.0,364.0,68.45827307692308,61.38765480769232,7.070618269230756
+Japan,Cameroon,30620,Group stage,South Africa,2010,2010-06-14,1,0,home_win,45.0,682.0,AFC,19.0,887.0,CAF,-26.0,-205.0,61.568284519230765,59.91948615384615,1.6487983653846143
+Netherlands,Denmark,83465,Group stage,South Africa,2010,2010-06-14,2,0,home_win,4.0,1231.0,UEFA,36.0,767.0,UEFA,32.0,464.0,66.82286346153847,64.05919923076922,2.763664230769251
+Brazil,North Korea,54331,Group stage,South Africa,2010,2010-06-15,2,1,home_win,1.0,1611.0,CONMEBOL,105.0,285.0,AFC,104.0,1326.0,71.18102653846155,,
+Côte d'Ivoire,Portugal,37034,Group stage,South Africa,2010,2010-06-15,0,0,draw,27.0,856.0,CAF,3.0,1249.0,UEFA,-24.0,-393.0,,68.66904192307692,
+New Zealand,Slovakia,23871,Group stage,South Africa,2010,2010-06-15,1,1,draw,78.0,410.0,OFC,34.0,777.0,UEFA,-44.0,-367.0,53.55966451923077,58.77176490384615,-5.2121003846153755
+Honduras,Chile,32664,Group stage,South Africa,2010,2010-06-16,0,1,away_win,38.0,734.0,CONCACAF,18.0,888.0,CONMEBOL,-20.0,-154.0,56.29921266666667,63.52331596153847,-7.224103294871803
+South Africa,Uruguay,42658,Group stage,South Africa,2010,2010-06-16,0,3,away_win,83.0,392.0,CAF,16.0,899.0,CONMEBOL,-67.0,-507.0,58.53896730769231,65.00322653846155,-6.464259230769237
+Spain,Switzerland,62453,Group stage,South Africa,2010,2010-06-16,0,1,away_win,2.0,1565.0,UEFA,24.0,866.0,UEFA,22.0,699.0,71.50423846153845,64.68190576923077,6.822332692307683
+Greece,Nigeria,31593,Group stage,South Africa,2010,2010-06-17,2,1,home_win,13.0,964.0,UEFA,21.0,883.0,CAF,8.0,81.0,61.26938317307693,60.60471115384616,0.6646720192307711
+France,Mexico,35370,Group stage,South Africa,2010,2010-06-17,0,2,away_win,9.0,1044.0,UEFA,17.0,895.0,CONCACAF,8.0,149.0,69.714,64.15167115384617,5.562328846153832
+Argentina,South Korea,82174,Group stage,South Africa,2010,2010-06-17,4,1,home_win,7.0,1076.0,CONMEBOL,47.0,632.0,AFC,40.0,444.0,67.99343846153849,,
+England,Algeria,64100,Group stage,South Africa,2010,2010-06-18,0,0,draw,8.0,1068.0,UEFA,30.0,821.0,CAF,22.0,247.0,68.18326346153846,62.31388865384615,5.86937480769231
+Slovenia,United States,45573,Group stage,South Africa,2010,2010-06-18,2,2,draw,25.0,860.0,UEFA,14.0,957.0,CONCACAF,-11.0,-97.0,59.45073961538462,62.40566538461539,-2.954925769230769
+Germany,Serbia,38294,Group stage,South Africa,2010,2010-06-18,0,1,away_win,6.0,1082.0,UEFA,15.0,947.0,UEFA,9.0,135.0,69.83241730769232,64.93045615384615,4.901961153846173
+Cameroon,Denmark,38074,Group stage,South Africa,2010,2010-06-19,1,2,away_win,19.0,887.0,CAF,36.0,767.0,UEFA,17.0,120.0,59.91948615384615,64.05919923076922,-4.139713076923073
+Ghana,Australia,34812,Group stage,South Africa,2010,2010-06-19,1,1,draw,32.0,800.0,CAF,20.0,886.0,AFC,-12.0,-86.0,63.09506576923078,59.69487971153847,3.4001860576923093
+Netherlands,Japan,62010,Group stage,South Africa,2010,2010-06-19,1,0,home_win,4.0,1231.0,UEFA,45.0,682.0,AFC,41.0,549.0,66.82286346153847,61.568284519230765,5.25457894230771
+Brazil,Côte d'Ivoire,84455,Group stage,South Africa,2010,2010-06-20,3,1,home_win,1.0,1611.0,CONMEBOL,27.0,856.0,CAF,26.0,755.0,71.18102653846155,,
+Italy,New Zealand,38229,Group stage,South Africa,2010,2010-06-20,1,1,draw,5.0,1184.0,UEFA,78.0,410.0,OFC,73.0,774.0,68.45827307692308,53.55966451923077,14.898608557692306
+Slovakia,Paraguay,26643,Group stage,South Africa,2010,2010-06-20,0,2,away_win,34.0,777.0,UEFA,31.0,820.0,CONMEBOL,-3.0,-43.0,58.77176490384615,61.38765480769232,-2.615889903846174
+Portugal,North Korea,63644,Group stage,South Africa,2010,2010-06-21,7,0,home_win,3.0,1249.0,UEFA,105.0,285.0,AFC,102.0,964.0,68.66904192307692,,
+Spain,Honduras,54386,Group stage,South Africa,2010,2010-06-21,2,0,home_win,2.0,1565.0,UEFA,38.0,734.0,CONCACAF,36.0,831.0,71.50423846153845,56.29921266666667,15.20502579487178
+Chile,Switzerland,34872,Group stage,South Africa,2010,2010-06-21,1,0,home_win,18.0,888.0,CONMEBOL,24.0,866.0,UEFA,6.0,22.0,63.52331596153847,64.68190576923077,-1.1585898076922945
+Nigeria,South Korea,61874,Group stage,South Africa,2010,2010-06-22,2,2,draw,21.0,883.0,CAF,47.0,632.0,AFC,26.0,251.0,60.60471115384616,,
+France,South Africa,39415,Group stage,South Africa,2010,2010-06-22,1,2,away_win,9.0,1044.0,UEFA,83.0,392.0,CAF,74.0,652.0,69.714,58.53896730769231,11.175032692307688
+Mexico,Uruguay,33425,Group stage,South Africa,2010,2010-06-22,0,1,away_win,17.0,895.0,CONCACAF,16.0,899.0,CONMEBOL,-1.0,-4.0,64.15167115384617,65.00322653846155,-0.8515553846153807
+Greece,Argentina,38891,Group stage,South Africa,2010,2010-06-22,0,2,away_win,13.0,964.0,UEFA,7.0,1076.0,CONMEBOL,-6.0,-112.0,61.26938317307693,67.99343846153849,-6.724055288461557
+Australia,Serbia,37836,Group stage,South Africa,2010,2010-06-23,2,1,home_win,20.0,886.0,AFC,15.0,947.0,UEFA,-5.0,-61.0,59.69487971153847,64.93045615384615,-5.235576442307682
+Ghana,Germany,83391,Group stage,South Africa,2010,2010-06-23,0,1,away_win,32.0,800.0,CAF,6.0,1082.0,UEFA,-26.0,-282.0,63.09506576923078,69.83241730769232,-6.737351538461546
+United States,Algeria,35827,Group stage,South Africa,2010,2010-06-23,1,0,home_win,14.0,957.0,CONCACAF,30.0,821.0,CAF,16.0,136.0,62.40566538461539,62.31388865384615,0.09177673076924009
+Slovenia,England,36893,Group stage,South Africa,2010,2010-06-23,0,1,away_win,25.0,860.0,UEFA,8.0,1068.0,UEFA,-17.0,-208.0,59.45073961538462,68.18326346153846,-8.732523846153839
+Paraguay,New Zealand,34850,Group stage,South Africa,2010,2010-06-24,0,0,draw,31.0,820.0,CONMEBOL,78.0,410.0,OFC,47.0,410.0,61.38765480769232,53.55966451923077,7.8279902884615495
+Cameroon,Netherlands,63093,Group stage,South Africa,2010,2010-06-24,1,2,away_win,19.0,887.0,CAF,4.0,1231.0,UEFA,-15.0,-344.0,59.91948615384615,66.82286346153847,-6.903377307692324
+Denmark,Japan,27967,Group stage,South Africa,2010,2010-06-24,1,3,away_win,36.0,767.0,UEFA,45.0,682.0,AFC,9.0,85.0,64.05919923076922,61.568284519230765,2.4909147115384584
+Slovakia,Italy,53412,Group stage,South Africa,2010,2010-06-24,3,2,home_win,34.0,777.0,UEFA,5.0,1184.0,UEFA,-29.0,-407.0,58.77176490384615,68.45827307692308,-9.68650817307693
+Portugal,Brazil,62712,Group stage,South Africa,2010,2010-06-25,0,0,draw,3.0,1249.0,UEFA,1.0,1611.0,CONMEBOL,-2.0,-362.0,68.66904192307692,71.18102653846155,-2.511984615384634
+North Korea,Côte d'Ivoire,34763,Group stage,South Africa,2010,2010-06-25,0,3,away_win,105.0,285.0,AFC,27.0,856.0,CAF,-78.0,-571.0,,,
+Switzerland,Honduras,28042,Group stage,South Africa,2010,2010-06-25,0,0,draw,24.0,866.0,UEFA,38.0,734.0,CONCACAF,14.0,132.0,64.68190576923077,56.29921266666667,8.382693102564097
+Chile,Spain,41958,Group stage,South Africa,2010,2010-06-25,1,2,away_win,18.0,888.0,CONMEBOL,2.0,1565.0,UEFA,-16.0,-677.0,63.52331596153847,71.50423846153845,-7.980922499999977
+United States,Ghana,34976,Round of 16,South Africa,2010,2010-06-26,1,2,away_win,14.0,957.0,CONCACAF,32.0,800.0,CAF,18.0,157.0,62.40566538461539,63.09506576923078,-0.6894003846153893
+Uruguay,South Korea,30597,Round of 16,South Africa,2010,2010-06-26,2,1,home_win,16.0,899.0,CONMEBOL,47.0,632.0,AFC,31.0,267.0,65.00322653846155,,
+Argentina,Mexico,84377,Round of 16,South Africa,2010,2010-06-27,3,1,home_win,7.0,1076.0,CONMEBOL,17.0,895.0,CONCACAF,10.0,181.0,67.99343846153849,64.15167115384617,3.841767307692322
+Germany,England,40510,Round of 16,South Africa,2010,2010-06-27,4,1,home_win,6.0,1082.0,UEFA,8.0,1068.0,UEFA,2.0,14.0,69.83241730769232,68.18326346153846,1.6491538461538653
+Brazil,Chile,54096,Round of 16,South Africa,2010,2010-06-28,3,0,home_win,1.0,1611.0,CONMEBOL,18.0,888.0,CONMEBOL,17.0,723.0,71.18102653846155,63.52331596153847,7.65771057692308
+Netherlands,Slovakia,61962,Round of 16,South Africa,2010,2010-06-28,2,1,home_win,4.0,1231.0,UEFA,34.0,777.0,UEFA,30.0,454.0,66.82286346153847,58.77176490384615,8.051098557692328
+Spain,Portugal,62955,Round of 16,South Africa,2010,2010-06-29,1,0,home_win,2.0,1565.0,UEFA,3.0,1249.0,UEFA,1.0,316.0,71.50423846153845,68.66904192307692,2.835196538461531
+Paraguay,Japan,36742,Round of 16,South Africa,2010,2010-06-29,0,0,draw,31.0,820.0,CONMEBOL,45.0,682.0,AFC,14.0,138.0,61.38765480769232,61.568284519230765,-0.18062971153844387
+Uruguay,Ghana,84017,Quarter-finals,South Africa,2010,2010-07-02,1,1,draw,16.0,899.0,CONMEBOL,32.0,800.0,CAF,16.0,99.0,65.00322653846155,63.09506576923078,1.9081607692307685
+Netherlands,Brazil,40186,Quarter-finals,South Africa,2010,2010-07-02,2,1,home_win,4.0,1231.0,UEFA,1.0,1611.0,CONMEBOL,-3.0,-380.0,66.82286346153847,71.18102653846155,-4.358163076923077
+Paraguay,Spain,55359,Quarter-finals,South Africa,2010,2010-07-03,0,1,away_win,31.0,820.0,CONMEBOL,2.0,1565.0,UEFA,-29.0,-745.0,61.38765480769232,71.50423846153845,-10.116583653846128
+Argentina,Germany,64100,Quarter-finals,South Africa,2010,2010-07-03,0,4,away_win,7.0,1076.0,CONMEBOL,6.0,1082.0,UEFA,-1.0,-6.0,67.99343846153849,69.83241730769232,-1.8389788461538359
+Uruguay,Netherlands,62479,Semi-finals,South Africa,2010,2010-07-06,2,3,away_win,16.0,899.0,CONMEBOL,4.0,1231.0,UEFA,-12.0,-332.0,65.00322653846155,66.82286346153847,-1.8196369230769278
+Germany,Spain,60960,Semi-finals,South Africa,2010,2010-07-07,0,1,away_win,6.0,1082.0,UEFA,2.0,1565.0,UEFA,-4.0,-483.0,69.83241730769232,71.50423846153845,-1.6718211538461247
+Uruguay,Germany,36254,Third-place match,South Africa,2010,2010-07-10,2,3,away_win,16.0,899.0,CONMEBOL,6.0,1082.0,UEFA,-10.0,-183.0,65.00322653846155,69.83241730769232,-4.829190769230777
+Netherlands,Spain,84490,Final,South Africa,2010,2010-07-11,0,1,away_win,4.0,1231.0,UEFA,2.0,1565.0,UEFA,-2.0,-334.0,66.82286346153847,71.50423846153845,-4.681374999999974
+Brazil,Croatia,62103,Group stage,Brazil,2014,2014-06-12,3,1,home_win,3.0,1242.0,CONMEBOL,18.0,903.0,UEFA,15.0,339.0,71.18102653846155,65.74488538461539,5.436141153846165
+Chile,Australia,40275,Group stage,Brazil,2014,2014-06-13,3,1,home_win,14.0,1026.0,CONMEBOL,62.0,526.0,AFC,48.0,500.0,63.52331596153847,59.69487971153847,3.828436250000003
+Spain,Netherlands,48173,Group stage,Brazil,2014,2014-06-13,1,5,away_win,1.0,1485.0,UEFA,15.0,981.0,UEFA,14.0,504.0,71.50423846153845,66.82286346153847,4.681374999999974
+Mexico,Cameroon,39216,Group stage,Brazil,2014,2014-06-13,1,0,home_win,20.0,882.0,CONCACAF,56.0,558.0,CAF,36.0,324.0,64.15167115384617,59.91948615384615,4.232185000000015
+Côte d'Ivoire,Japan,40267,Group stage,Brazil,2014,2014-06-14,2,1,home_win,23.0,809.0,CAF,46.0,626.0,AFC,23.0,183.0,,61.568284519230765,
+England,Italy,39800,Group stage,Brazil,2014,2014-06-14,1,2,away_win,10.0,1090.0,UEFA,9.0,1104.0,UEFA,-1.0,-14.0,68.18326346153846,68.45827307692308,-0.27500961538461866
+Uruguay,Costa Rica,58679,Group stage,Brazil,2014,2014-06-14,1,3,away_win,7.0,1147.0,CONMEBOL,28.0,762.0,CONCACAF,21.0,385.0,65.00322653846155,54.76753863461539,10.235687903846156
+Colombia,Greece,57174,Group stage,Brazil,2014,2014-06-14,3,0,home_win,8.0,1137.0,CONMEBOL,12.0,1064.0,UEFA,4.0,73.0,64.20907144230769,61.26938317307693,2.939688269230757
+Argentina,Bosnia and Herzegovina,74738,Group stage,Brazil,2014,2014-06-15,2,1,home_win,5.0,1175.0,CONMEBOL,21.0,873.0,UEFA,16.0,302.0,67.99343846153849,,
+France,Honduras,43012,Group stage,Brazil,2014,2014-06-15,3,0,home_win,17.0,913.0,UEFA,33.0,731.0,CONCACAF,16.0,182.0,69.714,56.29921266666667,13.41478733333333
+Switzerland,Ecuador,68351,Group stage,Brazil,2014,2014-06-15,2,1,home_win,6.0,1149.0,UEFA,26.0,791.0,CONMEBOL,20.0,358.0,64.68190576923077,57.17906759615385,7.502838173076917
+Germany,Portugal,51081,Group stage,Brazil,2014,2014-06-16,4,0,home_win,2.0,1300.0,UEFA,4.0,1189.0,UEFA,2.0,111.0,69.83241730769232,68.66904192307692,1.1633753846154065
+Iran,Nigeria,39081,Group stage,Brazil,2014,2014-06-16,0,0,draw,43.0,641.0,AFC,44.0,640.0,CAF,1.0,1.0,53.570152000000014,60.60471115384616,-7.034559153846146
+Ghana,United States,39760,Group stage,Brazil,2014,2014-06-16,1,2,away_win,37.0,704.0,CAF,13.0,1035.0,CONCACAF,-24.0,-331.0,63.09506576923078,62.40566538461539,0.6894003846153893
+Russia,South Korea,37603,Group stage,Brazil,2014,2014-06-17,1,1,draw,19.0,893.0,UEFA,57.0,547.0,AFC,38.0,346.0,63.45978846153847,,
+Brazil,Mexico,60342,Group stage,Brazil,2014,2014-06-17,0,0,draw,3.0,1242.0,CONMEBOL,20.0,882.0,CONCACAF,17.0,360.0,71.18102653846155,64.15167115384617,7.029355384615386
+Belgium,Algeria,56800,Group stage,Brazil,2014,2014-06-17,2,1,home_win,11.0,1074.0,UEFA,22.0,858.0,CAF,11.0,216.0,67.93338076923077,62.31388865384615,5.619492115384617
+Cameroon,Croatia,39982,Group stage,Brazil,2014,2014-06-18,0,4,away_win,56.0,558.0,CAF,18.0,903.0,UEFA,-38.0,-345.0,59.91948615384615,65.74488538461539,-5.825399230769236
+Spain,Chile,74101,Group stage,Brazil,2014,2014-06-18,0,2,away_win,1.0,1485.0,UEFA,14.0,1026.0,CONMEBOL,13.0,459.0,71.50423846153845,63.52331596153847,7.980922499999977
+Australia,Netherlands,42877,Group stage,Brazil,2014,2014-06-18,2,3,away_win,62.0,526.0,AFC,15.0,981.0,UEFA,-47.0,-455.0,59.69487971153847,66.82286346153847,-7.127983750000006
+Japan,Greece,39485,Group stage,Brazil,2014,2014-06-19,0,0,draw,46.0,626.0,AFC,12.0,1064.0,UEFA,-34.0,-438.0,61.568284519230765,61.26938317307693,0.29890134615383346
+Uruguay,England,62575,Group stage,Brazil,2014,2014-06-19,2,1,home_win,7.0,1147.0,CONMEBOL,10.0,1090.0,UEFA,3.0,57.0,65.00322653846155,68.18326346153846,-3.180036923076912
+Colombia,Côte d'Ivoire,68748,Group stage,Brazil,2014,2014-06-19,2,1,home_win,8.0,1137.0,CONMEBOL,23.0,809.0,CAF,15.0,328.0,64.20907144230769,,
+Honduras,Ecuador,39224,Group stage,Brazil,2014,2014-06-20,1,2,away_win,33.0,731.0,CONCACAF,26.0,791.0,CONMEBOL,-7.0,-60.0,56.29921266666667,57.17906759615385,-0.8798549294871805
+Switzerland,France,51003,Group stage,Brazil,2014,2014-06-20,2,5,away_win,6.0,1149.0,UEFA,17.0,913.0,UEFA,11.0,236.0,64.68190576923077,69.714,-5.032094230769232
+Italy,Costa Rica,40285,Group stage,Brazil,2014,2014-06-20,0,1,away_win,9.0,1104.0,UEFA,28.0,762.0,CONCACAF,19.0,342.0,68.45827307692308,54.76753863461539,13.690734442307686
+Argentina,Iran,57698,Group stage,Brazil,2014,2014-06-21,1,0,home_win,5.0,1175.0,CONMEBOL,43.0,641.0,AFC,38.0,534.0,67.99343846153849,53.570152000000014,14.423286461538474
+Germany,Ghana,59621,Group stage,Brazil,2014,2014-06-21,2,2,draw,2.0,1300.0,UEFA,37.0,704.0,CAF,35.0,596.0,69.83241730769232,63.09506576923078,6.737351538461546
+Nigeria,Bosnia and Herzegovina,40499,Group stage,Brazil,2014,2014-06-21,1,0,home_win,44.0,640.0,CAF,21.0,873.0,UEFA,-23.0,-233.0,60.60471115384616,,
+United States,Portugal,40123,Group stage,Brazil,2014,2014-06-22,2,2,draw,13.0,1035.0,CONCACAF,4.0,1189.0,UEFA,-9.0,-154.0,62.40566538461539,68.66904192307692,-6.263376538461529
+South Korea,Algeria,42732,Group stage,Brazil,2014,2014-06-22,2,4,away_win,57.0,547.0,AFC,22.0,858.0,CAF,-35.0,-311.0,,62.31388865384615,
+Belgium,Russia,73819,Group stage,Brazil,2014,2014-06-22,1,0,home_win,11.0,1074.0,UEFA,19.0,893.0,UEFA,8.0,181.0,67.93338076923077,63.45978846153847,4.473592307692293
+Cameroon,Brazil,69112,Group stage,Brazil,2014,2014-06-23,1,4,away_win,56.0,558.0,CAF,3.0,1242.0,CONMEBOL,-53.0,-684.0,59.91948615384615,71.18102653846155,-11.261540384615401
+Croatia,Mexico,41212,Group stage,Brazil,2014,2014-06-23,1,3,away_win,18.0,903.0,UEFA,20.0,882.0,CONCACAF,2.0,21.0,65.74488538461539,64.15167115384617,1.5932142307692203
+Netherlands,Chile,62996,Group stage,Brazil,2014,2014-06-23,2,0,home_win,15.0,981.0,UEFA,14.0,1026.0,CONMEBOL,-1.0,-45.0,66.82286346153847,63.52331596153847,3.2995475000000027
+Australia,Spain,39375,Group stage,Brazil,2014,2014-06-23,0,3,away_win,62.0,526.0,AFC,1.0,1485.0,UEFA,-61.0,-959.0,59.69487971153847,71.50423846153845,-11.80935874999998
+Greece,Côte d'Ivoire,59095,Group stage,Brazil,2014,2014-06-24,2,1,home_win,12.0,1064.0,UEFA,23.0,809.0,CAF,11.0,255.0,61.26938317307693,,
+Japan,Colombia,40340,Group stage,Brazil,2014,2014-06-24,1,4,away_win,46.0,626.0,AFC,8.0,1137.0,CONMEBOL,-38.0,-511.0,61.568284519230765,64.20907144230769,-2.6407869230769236
+Italy,Uruguay,39706,Group stage,Brazil,2014,2014-06-24,0,1,away_win,9.0,1104.0,UEFA,7.0,1147.0,CONMEBOL,-2.0,-43.0,68.45827307692308,65.00322653846155,3.4550465384615308
+Costa Rica,England,57823,Group stage,Brazil,2014,2014-06-24,0,0,draw,28.0,762.0,CONCACAF,10.0,1090.0,UEFA,-18.0,-328.0,54.76753863461539,68.18326346153846,-13.415724826923068
+Nigeria,Argentina,43285,Group stage,Brazil,2014,2014-06-25,2,3,away_win,44.0,640.0,CAF,5.0,1175.0,CONMEBOL,-39.0,-535.0,60.60471115384616,67.99343846153849,-7.388727307692328
+Bosnia and Herzegovina,Iran,48011,Group stage,Brazil,2014,2014-06-25,3,1,home_win,21.0,873.0,UEFA,43.0,641.0,AFC,22.0,232.0,,53.570152000000014,
+Ecuador,France,73749,Group stage,Brazil,2014,2014-06-25,0,0,draw,26.0,791.0,CONMEBOL,17.0,913.0,UEFA,-9.0,-122.0,57.17906759615385,69.714,-12.534932403846149
+Honduras,Switzerland,40322,Group stage,Brazil,2014,2014-06-25,0,3,away_win,33.0,731.0,CONCACAF,6.0,1149.0,UEFA,-27.0,-418.0,56.29921266666667,64.68190576923077,-8.382693102564097
+Algeria,Russia,39311,Group stage,Brazil,2014,2014-06-26,1,1,draw,22.0,858.0,CAF,19.0,893.0,UEFA,-3.0,-35.0,62.31388865384615,63.45978846153847,-1.1458998076923237
+South Korea,Belgium,61397,Group stage,Brazil,2014,2014-06-26,0,1,away_win,57.0,547.0,AFC,11.0,1074.0,UEFA,-46.0,-527.0,,67.93338076923077,
+Portugal,Ghana,67540,Group stage,Brazil,2014,2014-06-26,2,1,home_win,4.0,1189.0,UEFA,37.0,704.0,CAF,33.0,485.0,68.66904192307692,63.09506576923078,5.573976153846139
+United States,Germany,41876,Group stage,Brazil,2014,2014-06-26,0,1,away_win,13.0,1035.0,CONCACAF,2.0,1300.0,UEFA,-11.0,-265.0,62.40566538461539,69.83241730769232,-7.426751923076935
+Colombia,Uruguay,73804,Round of 16,Brazil,2014,2014-06-28,2,0,home_win,8.0,1137.0,CONMEBOL,7.0,1147.0,CONMEBOL,-1.0,-10.0,64.20907144230769,65.00322653846155,-0.7941550961538582
+Brazil,Chile,57714,Round of 16,Brazil,2014,2014-06-28,1,1,draw,3.0,1242.0,CONMEBOL,14.0,1026.0,CONMEBOL,11.0,216.0,71.18102653846155,63.52331596153847,7.65771057692308
+Costa Rica,Greece,41242,Round of 16,Brazil,2014,2014-06-29,1,1,draw,28.0,762.0,CONCACAF,12.0,1064.0,UEFA,-16.0,-302.0,54.76753863461539,61.26938317307693,-6.50184453846154
+Netherlands,Mexico,58817,Round of 16,Brazil,2014,2014-06-29,2,1,home_win,15.0,981.0,UEFA,20.0,882.0,CONCACAF,5.0,99.0,66.82286346153847,64.15167115384617,2.6711923076923085
+Germany,Algeria,43063,Round of 16,Brazil,2014,2014-06-30,2,1,home_win,2.0,1300.0,UEFA,22.0,858.0,CAF,20.0,442.0,69.83241730769232,62.31388865384615,7.518528653846175
+France,Nigeria,67882,Round of 16,Brazil,2014,2014-06-30,2,0,home_win,17.0,913.0,UEFA,44.0,640.0,CAF,27.0,273.0,69.714,60.60471115384616,9.109288846153838
+Belgium,United States,51227,Round of 16,Brazil,2014,2014-07-01,2,1,home_win,11.0,1074.0,UEFA,13.0,1035.0,CONCACAF,2.0,39.0,67.93338076923077,62.40566538461539,5.527715384615377
+Argentina,Switzerland,63255,Round of 16,Brazil,2014,2014-07-01,1,0,home_win,5.0,1175.0,CONMEBOL,6.0,1149.0,UEFA,1.0,26.0,67.99343846153849,64.68190576923077,3.311532692307722
+Brazil,Colombia,60342,Quarter-finals,Brazil,2014,2014-07-04,2,1,home_win,3.0,1242.0,CONMEBOL,8.0,1137.0,CONMEBOL,5.0,105.0,71.18102653846155,64.20907144230769,6.971955096153863
+France,Germany,74240,Quarter-finals,Brazil,2014,2014-07-04,0,1,away_win,17.0,913.0,UEFA,2.0,1300.0,UEFA,-15.0,-387.0,69.714,69.83241730769232,-0.11841730769232583
+Netherlands,Costa Rica,51179,Quarter-finals,Brazil,2014,2014-07-05,0,0,draw,15.0,981.0,UEFA,28.0,762.0,CONCACAF,13.0,219.0,66.82286346153847,54.76753863461539,12.055324826923083
+Argentina,Belgium,68551,Quarter-finals,Brazil,2014,2014-07-05,1,0,home_win,5.0,1175.0,CONMEBOL,11.0,1074.0,UEFA,6.0,101.0,67.99343846153849,67.93338076923077,0.06005769230772273
+Brazil,Germany,58141,Semi-finals,Brazil,2014,2014-07-08,1,7,away_win,3.0,1242.0,CONMEBOL,2.0,1300.0,UEFA,-1.0,-58.0,71.18102653846155,69.83241730769232,1.3486092307692275
+Netherlands,Argentina,63267,Semi-finals,Brazil,2014,2014-07-09,0,0,draw,15.0,981.0,UEFA,5.0,1175.0,CONMEBOL,-10.0,-194.0,66.82286346153847,67.99343846153849,-1.1705750000000137
+Brazil,Netherlands,68034,Third-place match,Brazil,2014,2014-07-12,0,3,away_win,3.0,1242.0,CONMEBOL,15.0,981.0,UEFA,12.0,261.0,71.18102653846155,66.82286346153847,4.358163076923077
+Germany,Argentina,74738,Final,Brazil,2014,2014-07-13,1,0,home_win,2.0,1300.0,UEFA,5.0,1175.0,CONMEBOL,3.0,125.0,69.83241730769232,67.99343846153849,1.8389788461538359
+Russia,Saudi Arabia,78011,Group stage,Russia,2018,2018-06-14,5,0,home_win,70.0,457.0,UEFA,67.0,465.0,AFC,-3.0,-8.0,63.45978846153847,57.83005211538461,5.629736346153862
+Portugal,Spain,43866,Group stage,Russia,2018,2018-06-15,3,3,draw,4.0,1274.0,UEFA,10.0,1126.0,UEFA,6.0,148.0,68.66904192307692,71.50423846153845,-2.835196538461531
+Morocco,Iran,62548,Group stage,Russia,2018,2018-06-15,0,1,away_win,41.0,686.0,CAF,37.0,708.0,AFC,-4.0,-22.0,62.09039384615384,53.570152000000014,8.520241846153823
+Egypt,Uruguay,27015,Group stage,Russia,2018,2018-06-15,0,1,away_win,45.0,649.0,CAF,14.0,1018.0,CONMEBOL,-31.0,-369.0,57.44508059615386,65.00322653846155,-7.558145942307689
+Croatia,Nigeria,31136,Group stage,Russia,2018,2018-06-16,2,0,home_win,20.0,945.0,UEFA,48.0,618.0,CAF,28.0,327.0,65.74488538461539,60.60471115384616,5.140174230769226
+Peru,Denmark,40502,Group stage,Russia,2018,2018-06-16,0,1,away_win,11.0,1125.0,CONMEBOL,12.0,1051.0,UEFA,1.0,74.0,58.05016461538462,64.05919923076922,-6.009034615384607
+Argentina,Iceland,44190,Group stage,Russia,2018,2018-06-16,1,1,draw,5.0,1241.0,CONMEBOL,22.0,908.0,UEFA,17.0,333.0,67.99343846153849,58.59911817307693,9.394320288461557
+France,Australia,41279,Group stage,Russia,2018,2018-06-16,2,1,home_win,7.0,1198.0,UEFA,36.0,718.0,AFC,29.0,480.0,69.714,59.69487971153847,10.01912028846153
+Costa Rica,Serbia,41432,Group stage,Russia,2018,2018-06-17,0,1,away_win,23.0,884.0,CONCACAF,34.0,751.0,UEFA,11.0,133.0,54.76753863461539,64.93045615384615,-10.16291751923076
+Brazil,Switzerland,43109,Group stage,Russia,2018,2018-06-17,1,1,draw,2.0,1431.0,CONMEBOL,6.0,1199.0,UEFA,4.0,232.0,71.18102653846155,64.68190576923077,6.499120769230785
+Germany,Mexico,78011,Group stage,Russia,2018,2018-06-17,0,1,away_win,1.0,1558.0,UEFA,15.0,989.0,CONCACAF,14.0,569.0,69.83241730769232,64.15167115384617,5.680746153846158
+Sweden,South Korea,42300,Group stage,Russia,2018,2018-06-18,1,0,home_win,24.0,880.0,UEFA,57.0,544.0,AFC,33.0,336.0,62.87979807692308,,
+Tunisia,England,41064,Group stage,Russia,2018,2018-06-18,1,2,away_win,21.0,910.0,CAF,12.0,1051.0,UEFA,-9.0,-141.0,56.97818234615384,68.18326346153846,-11.205081115384623
+Belgium,Panama,43257,Group stage,Russia,2018,2018-06-18,3,0,home_win,3.0,1298.0,UEFA,55.0,571.0,CONCACAF,52.0,727.0,67.93338076923077,53.79210199999999,14.141278769230773
+Colombia,Japan,40842,Group stage,Russia,2018,2018-06-19,1,2,away_win,16.0,986.0,CONMEBOL,61.0,521.0,AFC,45.0,465.0,64.20907144230769,61.568284519230765,2.6407869230769236
+Russia,Egypt,64468,Group stage,Russia,2018,2018-06-19,3,1,home_win,70.0,457.0,UEFA,45.0,649.0,CAF,-25.0,-192.0,63.45978846153847,57.44508059615386,6.014707865384615
+Poland,Senegal,44190,Group stage,Russia,2018,2018-06-19,1,2,away_win,8.0,1183.0,UEFA,27.0,838.0,CAF,19.0,345.0,61.76560730769231,62.96990692307693,-1.2042996153846204
+Iran,Spain,42718,Group stage,Russia,2018,2018-06-20,0,1,away_win,37.0,708.0,AFC,10.0,1126.0,UEFA,-27.0,-418.0,53.570152000000014,71.50423846153845,-17.934086461538435
+Uruguay,Saudi Arabia,42678,Group stage,Russia,2018,2018-06-20,1,0,home_win,14.0,1018.0,CONMEBOL,67.0,465.0,AFC,53.0,553.0,65.00322653846155,57.83005211538461,7.1731744230769365
+Portugal,Morocco,78011,Group stage,Russia,2018,2018-06-20,1,0,home_win,4.0,1274.0,UEFA,41.0,686.0,CAF,37.0,588.0,68.66904192307692,62.09039384615384,6.578648076923081
+Argentina,Croatia,43319,Group stage,Russia,2018,2018-06-21,0,3,away_win,5.0,1241.0,CONMEBOL,20.0,945.0,UEFA,15.0,296.0,67.99343846153849,65.74488538461539,2.248553076923102
+France,Peru,32789,Group stage,Russia,2018,2018-06-21,1,0,home_win,7.0,1198.0,UEFA,11.0,1125.0,CONMEBOL,4.0,73.0,69.714,58.05016461538462,11.663835384615382
+Denmark,Australia,40727,Group stage,Russia,2018,2018-06-21,1,1,draw,12.0,1051.0,UEFA,36.0,718.0,AFC,24.0,333.0,64.05919923076922,59.69487971153847,4.3643195192307545
+Serbia,Switzerland,33167,Group stage,Russia,2018,2018-06-22,1,2,away_win,34.0,751.0,UEFA,6.0,1199.0,UEFA,-28.0,-448.0,64.93045615384615,64.68190576923077,0.2485503846153847
+Nigeria,Iceland,40904,Group stage,Russia,2018,2018-06-22,2,0,home_win,48.0,618.0,CAF,22.0,908.0,UEFA,-26.0,-290.0,60.60471115384616,58.59911817307693,2.0055929807692294
+Brazil,Costa Rica,64468,Group stage,Russia,2018,2018-06-22,2,0,home_win,2.0,1431.0,CONMEBOL,23.0,884.0,CONCACAF,21.0,547.0,71.18102653846155,54.76753863461539,16.41348790384616
+Belgium,Tunisia,44190,Group stage,Russia,2018,2018-06-23,5,2,home_win,3.0,1298.0,UEFA,21.0,910.0,CAF,18.0,388.0,67.93338076923077,56.97818234615384,10.95519842307693
+South Korea,Mexico,43472,Group stage,Russia,2018,2018-06-23,1,2,away_win,57.0,544.0,AFC,15.0,989.0,CONCACAF,-42.0,-445.0,,64.15167115384617,
+Germany,Sweden,44287,Group stage,Russia,2018,2018-06-23,2,1,home_win,1.0,1558.0,UEFA,24.0,880.0,UEFA,23.0,678.0,69.83241730769232,62.87979807692308,6.952619230769244
+Japan,Senegal,32572,Group stage,Russia,2018,2018-06-24,2,2,draw,61.0,521.0,AFC,27.0,838.0,CAF,-34.0,-317.0,61.568284519230765,62.96990692307693,-1.4016224038461615
+England,Panama,43319,Group stage,Russia,2018,2018-06-24,6,1,home_win,12.0,1051.0,UEFA,55.0,571.0,CONCACAF,43.0,480.0,68.18326346153846,53.79210199999999,14.391161461538466
+Poland,Colombia,42873,Group stage,Russia,2018,2018-06-24,0,3,away_win,8.0,1183.0,UEFA,16.0,986.0,CONMEBOL,8.0,197.0,61.76560730769231,64.20907144230769,-2.4434641346153825
+Iran,Portugal,41685,Group stage,Russia,2018,2018-06-25,1,1,draw,37.0,708.0,AFC,4.0,1274.0,UEFA,-33.0,-566.0,53.570152000000014,68.66904192307692,-15.098889923076904
+Spain,Morocco,33973,Group stage,Russia,2018,2018-06-25,2,2,draw,10.0,1126.0,UEFA,41.0,686.0,CAF,31.0,440.0,71.50423846153845,62.09039384615384,9.413844615384612
+Uruguay,Russia,41970,Group stage,Russia,2018,2018-06-25,3,0,home_win,14.0,1018.0,CONMEBOL,70.0,457.0,UEFA,56.0,561.0,65.00322653846155,63.45978846153847,1.5434380769230742
+Saudi Arabia,Egypt,36823,Group stage,Russia,2018,2018-06-25,2,1,home_win,67.0,465.0,AFC,45.0,649.0,CAF,-22.0,-184.0,57.83005211538461,57.44508059615386,0.3849715192307528
+Nigeria,Argentina,64468,Group stage,Russia,2018,2018-06-26,1,2,away_win,48.0,618.0,CAF,5.0,1241.0,CONMEBOL,-43.0,-623.0,60.60471115384616,67.99343846153849,-7.388727307692328
+Iceland,Croatia,43472,Group stage,Russia,2018,2018-06-26,1,2,away_win,22.0,908.0,UEFA,20.0,945.0,UEFA,-2.0,-37.0,58.59911817307693,65.74488538461539,-7.145767211538455
+Denmark,France,78011,Group stage,Russia,2018,2018-06-26,0,0,draw,12.0,1051.0,UEFA,7.0,1198.0,UEFA,-5.0,-147.0,64.05919923076922,69.714,-5.654800769230775
+Australia,Peru,44073,Group stage,Russia,2018,2018-06-26,0,2,away_win,36.0,718.0,AFC,11.0,1125.0,CONMEBOL,-25.0,-407.0,59.69487971153847,58.05016461538462,1.6447150961538526
+South Korea,Germany,41835,Group stage,Russia,2018,2018-06-27,2,0,home_win,57.0,544.0,AFC,1.0,1558.0,UEFA,-56.0,-1014.0,,69.83241730769232,
+Switzerland,Costa Rica,43319,Group stage,Russia,2018,2018-06-27,2,2,draw,6.0,1199.0,UEFA,23.0,884.0,CONCACAF,17.0,315.0,64.68190576923077,54.76753863461539,9.914367134615375
+Serbia,Brazil,44190,Group stage,Russia,2018,2018-06-27,0,2,away_win,34.0,751.0,UEFA,2.0,1431.0,CONMEBOL,-32.0,-680.0,64.93045615384615,71.18102653846155,-6.250570384615401
+Mexico,Sweden,33061,Group stage,Russia,2018,2018-06-27,0,3,away_win,15.0,989.0,CONCACAF,24.0,880.0,UEFA,9.0,109.0,64.15167115384617,62.87979807692308,1.271873076923086
+Panama,Tunisia,37168,Group stage,Russia,2018,2018-06-28,1,2,away_win,55.0,571.0,CONCACAF,21.0,910.0,CAF,-34.0,-339.0,53.79210199999999,56.97818234615384,-3.186080346153844
+England,Belgium,33973,Group stage,Russia,2018,2018-06-28,0,1,away_win,12.0,1051.0,UEFA,3.0,1298.0,UEFA,-9.0,-247.0,68.18326346153846,67.93338076923077,0.24988269230769333
+Senegal,Colombia,41970,Group stage,Russia,2018,2018-06-28,0,1,away_win,27.0,838.0,CAF,16.0,986.0,CONMEBOL,-11.0,-148.0,62.96990692307693,64.20907144230769,-1.239164519230762
+Japan,Poland,42189,Group stage,Russia,2018,2018-06-28,0,1,away_win,61.0,521.0,AFC,8.0,1183.0,UEFA,-53.0,-662.0,61.568284519230765,61.76560730769231,-0.19732278846154117
+Uruguay,Portugal,44287,Round of 16,Russia,2018,2018-06-30,2,1,home_win,14.0,1018.0,CONMEBOL,4.0,1274.0,UEFA,-10.0,-256.0,65.00322653846155,68.66904192307692,-3.665815384615371
+France,Argentina,42873,Round of 16,Russia,2018,2018-06-30,4,3,home_win,7.0,1198.0,UEFA,5.0,1241.0,CONMEBOL,-2.0,-43.0,69.714,67.99343846153849,1.72056153846151
+Croatia,Denmark,40851,Round of 16,Russia,2018,2018-07-01,1,1,draw,12.0,2036.0,UEFA,15.0,2014.0,UEFA,3.0,22.0,65.74488538461539,64.05919923076922,1.685686153846163
+Spain,Russia,78011,Round of 16,Russia,2018,2018-07-01,1,1,draw,6.0,2104.0,UEFA,49.0,1758.0,UEFA,43.0,346.0,71.50423846153845,63.45978846153847,8.044449999999976
+Belgium,Japan,41466,Round of 16,Russia,2018,2018-07-02,3,2,home_win,5.0,2124.0,UEFA,41.0,1816.0,AFC,36.0,308.0,67.93338076923077,61.568284519230765,6.365096250000001
+Brazil,Mexico,41970,Round of 16,Russia,2018,2018-07-02,2,0,home_win,4.0,2160.0,CONMEBOL,10.0,2041.0,CONCACAF,6.0,119.0,71.18102653846155,64.15167115384617,7.029355384615386
+Colombia,England,44190,Round of 16,Russia,2018,2018-07-03,1,1,draw,17.0,1998.0,CONMEBOL,7.0,2099.0,UEFA,-10.0,-101.0,64.20907144230769,68.18326346153846,-3.9741920192307703
+Sweden,Switzerland,64042,Round of 16,Russia,2018,2018-07-03,1,0,home_win,21.0,1955.0,UEFA,8.0,2087.0,UEFA,-13.0,-132.0,62.87979807692308,64.68190576923077,-1.8021076923076862
+Brazil,Belgium,42873,Quarter-finals,Russia,2018,2018-07-06,1,2,away_win,4.0,2160.0,CONMEBOL,5.0,2124.0,UEFA,1.0,36.0,71.18102653846155,67.93338076923077,3.247645769230786
+Uruguay,France,43319,Quarter-finals,Russia,2018,2018-07-06,0,2,away_win,14.0,2017.0,CONMEBOL,2.0,2164.0,UEFA,-12.0,-147.0,65.00322653846155,69.714,-4.710773461538452
+Russia,Croatia,44287,Quarter-finals,Russia,2018,2018-07-07,2,2,draw,49.0,1758.0,UEFA,12.0,2036.0,UEFA,-37.0,-278.0,63.45978846153847,65.74488538461539,-2.285096923076914
+Sweden,England,39991,Quarter-finals,Russia,2018,2018-07-07,0,2,away_win,21.0,1955.0,UEFA,7.0,2099.0,UEFA,-14.0,-144.0,62.87979807692308,68.18326346153846,-5.303465384615379
+France,Belgium,64286,Semi-finals,Russia,2018,2018-07-10,1,0,home_win,2.0,2164.0,UEFA,5.0,2124.0,UEFA,3.0,40.0,69.714,67.93338076923077,1.7806192307692328
+Croatia,England,78011,Semi-finals,Russia,2018,2018-07-11,2,1,home_win,12.0,2036.0,UEFA,7.0,2099.0,UEFA,-5.0,-63.0,65.74488538461539,68.18326346153846,-2.4383780769230725
+Belgium,England,64406,Third-place match,Russia,2018,2018-07-14,2,0,home_win,5.0,2124.0,UEFA,7.0,2099.0,UEFA,2.0,25.0,67.93338076923077,68.18326346153846,-0.24988269230769333
+France,Croatia,78011,Final,Russia,2018,2018-07-15,4,2,home_win,2.0,2164.0,UEFA,12.0,2036.0,UEFA,10.0,128.0,69.714,65.74488538461539,3.969114615384612
+Qatar,Ecuador,67372,Group stage,Qatar,2022,2022-11-20,0,2,away_win,50.0,1439.89,AFC,44.0,1464.39,CONMEBOL,-6.0,-24.5,,57.17906759615385,
+United States,Wales,43418,Group stage,Qatar,2022,2022-11-21,1,1,draw,16.0,1627.48,CONCACAF,19.0,1569.82,UEFA,3.0,57.66000000000008,62.40566538461539,59.99270048076925,2.412964903846138
+Senegal,Netherlands,41721,Group stage,Qatar,2022,2022-11-21,0,2,away_win,18.0,1584.38,CAF,8.0,1694.51,UEFA,-10.0,-110.12999999999988,62.96990692307693,66.82286346153847,-3.852956538461548
+England,Iran,45334,Group stage,Qatar,2022,2022-11-21,6,2,home_win,5.0,1728.47,UEFA,20.0,1564.61,AFC,15.0,163.86000000000013,68.18326346153846,53.570152000000014,14.613111461538445
+Argentina,Saudi Arabia,88012,Group stage,Qatar,2022,2022-11-22,1,2,away_win,3.0,1773.88,CONMEBOL,51.0,1437.78,AFC,48.0,336.10000000000014,67.99343846153849,57.83005211538461,10.163386346153878
+Mexico,Poland,39369,Group stage,Qatar,2022,2022-11-22,0,0,draw,13.0,1644.89,CONCACAF,26.0,1548.59,UEFA,13.0,96.30000000000018,64.15167115384617,61.76560730769231,2.38606384615386
+France,Australia,40875,Group stage,Qatar,2022,2022-11-22,4,1,home_win,4.0,1759.78,UEFA,38.0,1488.72,AFC,34.0,271.05999999999995,69.714,59.69487971153847,10.01912028846153
+Denmark,Tunisia,42925,Group stage,Qatar,2022,2022-11-22,0,0,draw,10.0,1666.57,UEFA,30.0,1507.54,CAF,20.0,159.02999999999997,64.05919923076922,56.97818234615384,7.081016884615387
+Belgium,Canada,40432,Group stage,Qatar,2022,2022-11-23,1,0,home_win,2.0,1816.71,UEFA,41.0,1475.0,CONCACAF,39.0,341.71000000000004,67.93338076923077,56.19535634615384,11.73802442307693
+Spain,Costa Rica,40013,Group stage,Qatar,2022,2022-11-23,7,0,home_win,7.0,1715.22,UEFA,31.0,1503.59,CONCACAF,24.0,211.6300000000001,71.50423846153845,54.76753863461539,16.736699826923058
+Germany,Japan,42608,Group stage,Qatar,2022,2022-11-23,1,2,away_win,11.0,1650.21,UEFA,24.0,1559.54,AFC,13.0,90.67000000000007,69.83241730769232,61.568284519230765,8.26413278846156
+Morocco,Croatia,59407,Group stage,Qatar,2022,2022-11-23,0,0,draw,22.0,1563.5,CAF,12.0,1645.64,UEFA,-10.0,-82.1400000000001,62.09039384615384,65.74488538461539,-3.6544915384615493
+Brazil,Serbia,88103,Group stage,Qatar,2022,2022-11-24,2,0,home_win,1.0,1841.3,CONMEBOL,21.0,1563.62,UEFA,20.0,277.68000000000006,71.18102653846155,64.93045615384615,6.250570384615401
+Portugal,Ghana,42662,Group stage,Qatar,2022,2022-11-24,3,2,home_win,9.0,1676.56,UEFA,61.0,1393.0,CAF,52.0,283.55999999999995,68.66904192307692,63.09506576923078,5.573976153846139
+Uruguay,South Korea,41663,Group stage,Qatar,2022,2022-11-24,0,0,draw,14.0,1638.71,CONMEBOL,28.0,1530.3,AFC,14.0,108.41000000000008,65.00322653846155,,
+Switzerland,Cameroon,39089,Group stage,Qatar,2022,2022-11-24,1,0,home_win,15.0,1635.92,UEFA,43.0,1471.44,CAF,28.0,164.48000000000002,64.68190576923077,59.91948615384615,4.762419615384616
+England,United States,68463,Group stage,Qatar,2022,2022-11-25,0,0,draw,5.0,1728.47,UEFA,16.0,1627.48,CONCACAF,11.0,100.99000000000001,68.18326346153846,62.40566538461539,5.77759807692307
+Netherlands,Ecuador,44833,Group stage,Qatar,2022,2022-11-25,1,1,draw,8.0,1694.51,UEFA,44.0,1464.39,CONMEBOL,36.0,230.1199999999999,66.82286346153847,57.17906759615385,9.643795865384625
+Qatar,Senegal,41797,Group stage,Qatar,2022,2022-11-25,1,3,away_win,50.0,1439.89,AFC,18.0,1584.38,CAF,-32.0,-144.49,,62.96990692307693,
+Wales,Iran,40875,Group stage,Qatar,2022,2022-11-25,0,2,away_win,19.0,1569.82,UEFA,20.0,1564.61,AFC,1.0,5.210000000000036,59.99270048076925,53.570152000000014,6.422548480769237
+Tunisia,Australia,41823,Group stage,Qatar,2022,2022-11-26,0,1,away_win,30.0,1507.54,CAF,38.0,1488.72,AFC,8.0,18.819999999999936,56.97818234615384,59.69487971153847,-2.7166973653846327
+Argentina,Mexico,88966,Group stage,Qatar,2022,2022-11-26,2,0,home_win,3.0,1773.88,CONMEBOL,13.0,1644.89,CONCACAF,10.0,128.99,67.99343846153849,64.15167115384617,3.841767307692322
+France,Denmark,42860,Group stage,Qatar,2022,2022-11-26,2,1,home_win,4.0,1759.78,UEFA,10.0,1666.57,UEFA,6.0,93.21000000000004,69.714,64.05919923076922,5.654800769230775
+Poland,Saudi Arabia,44259,Group stage,Qatar,2022,2022-11-26,2,0,home_win,26.0,1548.59,UEFA,51.0,1437.78,AFC,25.0,110.80999999999995,61.76560730769231,57.83005211538461,3.935555192307696
+Spain,Germany,68895,Group stage,Qatar,2022,2022-11-27,1,1,draw,7.0,1715.22,UEFA,11.0,1650.21,UEFA,4.0,65.00999999999999,71.50423846153845,69.83241730769232,1.6718211538461247
+Croatia,Canada,44374,Group stage,Qatar,2022,2022-11-27,4,1,home_win,12.0,1645.64,UEFA,41.0,1475.0,CONCACAF,29.0,170.6400000000001,65.74488538461539,56.19535634615384,9.54952903846155
+Belgium,Morocco,43738,Group stage,Qatar,2022,2022-11-27,0,2,away_win,2.0,1816.71,UEFA,22.0,1563.5,CAF,20.0,253.21000000000004,67.93338076923077,62.09039384615384,5.8429869230769285
+Japan,Costa Rica,41479,Group stage,Qatar,2022,2022-11-27,0,1,away_win,24.0,1559.54,AFC,31.0,1503.59,CONCACAF,7.0,55.950000000000045,61.568284519230765,54.76753863461539,6.800745884615374
+Portugal,Uruguay,88668,Group stage,Qatar,2022,2022-11-28,2,0,home_win,9.0,1676.56,UEFA,14.0,1638.71,CONMEBOL,5.0,37.84999999999991,68.66904192307692,65.00322653846155,3.665815384615371
+Brazil,Switzerland,43649,Group stage,Qatar,2022,2022-11-28,1,0,home_win,1.0,1841.3,CONMEBOL,15.0,1635.92,UEFA,14.0,205.37999999999988,71.18102653846155,64.68190576923077,6.499120769230785
+South Korea,Ghana,43983,Group stage,Qatar,2022,2022-11-28,2,3,away_win,28.0,1530.3,AFC,61.0,1393.0,CAF,33.0,137.29999999999995,,63.09506576923078,
+Cameroon,Serbia,39789,Group stage,Qatar,2022,2022-11-28,3,3,draw,43.0,1471.44,CAF,21.0,1563.62,UEFA,-22.0,-92.17999999999984,59.91948615384615,64.93045615384615,-5.01097
+Netherlands,Qatar,66784,Group stage,Qatar,2022,2022-11-29,2,0,home_win,8.0,1694.51,UEFA,50.0,1439.89,AFC,42.0,254.6199999999999,66.82286346153847,,
+Ecuador,Senegal,44569,Group stage,Qatar,2022,2022-11-29,1,2,away_win,44.0,1464.39,CONMEBOL,18.0,1584.38,CAF,-26.0,-119.99000000000001,57.17906759615385,62.96990692307693,-5.790839326923077
+Wales,England,44297,Group stage,Qatar,2022,2022-11-29,0,3,away_win,19.0,1569.82,UEFA,5.0,1728.47,UEFA,-14.0,-158.6500000000001,59.99270048076925,68.18326346153846,-8.190562980769208
+Iran,United States,42127,Group stage,Qatar,2022,2022-11-29,0,1,away_win,20.0,1564.61,AFC,16.0,1627.48,CONCACAF,-4.0,-62.87000000000012,53.570152000000014,62.40566538461539,-8.835513384615375
+Poland,Argentina,44089,Group stage,Qatar,2022,2022-11-30,0,2,away_win,26.0,1548.59,UEFA,3.0,1773.88,CONMEBOL,-23.0,-225.2900000000002,61.76560730769231,67.99343846153849,-6.227831153846182
+Saudi Arabia,Mexico,84985,Group stage,Qatar,2022,2022-11-30,1,2,away_win,51.0,1437.78,AFC,13.0,1644.89,CONCACAF,-38.0,-207.11000000000013,57.83005211538461,64.15167115384617,-6.321619038461556
+Tunisia,France,43627,Group stage,Qatar,2022,2022-11-30,1,0,home_win,30.0,1507.54,CAF,4.0,1759.78,UEFA,-26.0,-252.24,56.97818234615384,69.714,-12.735817653846162
+Australia,Denmark,41232,Group stage,Qatar,2022,2022-11-30,1,0,home_win,38.0,1488.72,AFC,10.0,1666.57,UEFA,-28.0,-177.8499999999999,59.69487971153847,64.05919923076922,-4.3643195192307545
+Japan,Spain,44851,Group stage,Qatar,2022,2022-12-01,2,1,home_win,24.0,1559.54,AFC,7.0,1715.22,UEFA,-17.0,-155.68000000000006,61.568284519230765,71.50423846153845,-9.935953942307684
+Costa Rica,Germany,67054,Group stage,Qatar,2022,2022-12-01,2,4,away_win,31.0,1503.59,CONCACAF,11.0,1650.21,UEFA,-20.0,-146.62000000000012,54.76753863461539,69.83241730769232,-15.064878673076933
+Croatia,Belgium,43984,Group stage,Qatar,2022,2022-12-01,0,0,draw,12.0,1645.64,UEFA,2.0,1816.71,UEFA,-10.0,-171.06999999999994,65.74488538461539,67.93338076923077,-2.188495384615379
+Canada,Morocco,43102,Group stage,Qatar,2022,2022-12-01,1,2,away_win,41.0,1475.0,CONCACAF,22.0,1563.5,CAF,-19.0,-88.5,56.19535634615384,62.09039384615384,-5.895037500000001
+Serbia,Switzerland,41378,Group stage,Qatar,2022,2022-12-02,2,3,away_win,21.0,1563.62,UEFA,15.0,1635.92,UEFA,-6.0,-72.30000000000018,64.93045615384615,64.68190576923077,0.2485503846153847
+Cameroon,Brazil,85986,Group stage,Qatar,2022,2022-12-02,1,0,home_win,43.0,1471.44,CAF,1.0,1841.3,CONMEBOL,-42.0,-369.8599999999999,59.91948615384615,71.18102653846155,-11.261540384615401
+Ghana,Uruguay,43443,Group stage,Qatar,2022,2022-12-02,0,2,away_win,61.0,1393.0,CAF,14.0,1638.71,CONMEBOL,-47.0,-245.71000000000004,63.09506576923078,65.00322653846155,-1.9081607692307685
+South Korea,Portugal,44097,Group stage,Qatar,2022,2022-12-02,2,1,home_win,28.0,1530.3,AFC,9.0,1676.56,UEFA,-19.0,-146.26,,68.66904192307692,
+Netherlands,United States,44846,Round of 16,Qatar,2022,2022-12-03,3,1,home_win,8.0,1694.51,UEFA,16.0,1627.48,CONCACAF,8.0,67.02999999999997,66.82286346153847,62.40566538461539,4.417198076923086
+Argentina,Australia,45032,Round of 16,Qatar,2022,2022-12-03,2,1,home_win,3.0,1773.88,CONMEBOL,38.0,1488.72,AFC,35.0,285.1600000000001,67.99343846153849,59.69487971153847,8.29855875000002
+England,Senegal,65985,Round of 16,Qatar,2022,2022-12-04,3,0,home_win,5.0,1728.47,UEFA,18.0,1584.38,CAF,13.0,144.08999999999992,68.18326346153846,62.96990692307693,5.213356538461532
+France,Poland,40989,Round of 16,Qatar,2022,2022-12-04,3,1,home_win,4.0,1759.78,UEFA,26.0,1548.59,UEFA,22.0,211.19000000000005,69.714,61.76560730769231,7.948392692307692
+Brazil,South Korea,43847,Round of 16,Qatar,2022,2022-12-05,4,1,home_win,1.0,1841.3,CONMEBOL,28.0,1530.3,AFC,27.0,311.0,71.18102653846155,,
+Japan,Croatia,42523,Round of 16,Qatar,2022,2022-12-05,1,1,draw,24.0,1559.54,AFC,12.0,1645.64,UEFA,-12.0,-86.10000000000014,61.568284519230765,65.74488538461539,-4.176600865384621
+Portugal,Switzerland,83720,Round of 16,Qatar,2022,2022-12-06,6,1,home_win,9.0,1676.56,UEFA,15.0,1635.92,UEFA,6.0,40.63999999999987,68.66904192307692,64.68190576923077,3.9871361538461514
+Morocco,Spain,44667,Round of 16,Qatar,2022,2022-12-06,0,0,draw,22.0,1563.5,CAF,7.0,1715.22,UEFA,-15.0,-151.72000000000003,62.09039384615384,71.50423846153845,-9.413844615384612
+Netherlands,Argentina,88235,Quarter-finals,Qatar,2022,2022-12-09,2,2,draw,8.0,1694.51,UEFA,3.0,1773.88,CONMEBOL,-5.0,-79.37000000000012,66.82286346153847,67.99343846153849,-1.1705750000000137
+Croatia,Brazil,43893,Quarter-finals,Qatar,2022,2022-12-09,1,1,draw,12.0,1645.64,UEFA,1.0,1841.3,CONMEBOL,-11.0,-195.65999999999985,65.74488538461539,71.18102653846155,-5.436141153846165
+England,France,68895,Quarter-finals,Qatar,2022,2022-12-10,1,2,away_win,5.0,1728.47,UEFA,4.0,1759.78,UEFA,-1.0,-31.309999999999945,68.18326346153846,69.714,-1.5307365384615395
+Morocco,Portugal,44198,Quarter-finals,Qatar,2022,2022-12-10,1,0,home_win,22.0,1563.5,CAF,9.0,1676.56,UEFA,-13.0,-113.05999999999995,62.09039384615384,68.66904192307692,-6.578648076923081
+Argentina,Croatia,88966,Semi-finals,Qatar,2022,2022-12-13,3,0,home_win,3.0,1773.88,CONMEBOL,12.0,1645.64,UEFA,9.0,128.24,67.99343846153849,65.74488538461539,2.248553076923102
+France,Morocco,68294,Semi-finals,Qatar,2022,2022-12-14,2,0,home_win,4.0,1759.78,UEFA,22.0,1563.5,CAF,18.0,196.27999999999997,69.714,62.09039384615384,7.623606153846161
+Croatia,Morocco,44137,Third-place match,Qatar,2022,2022-12-17,2,1,home_win,12.0,1645.64,UEFA,22.0,1563.5,CAF,10.0,82.1400000000001,65.74488538461539,62.09039384615384,3.6544915384615493
+Argentina,France,88966,Final,Qatar,2022,2022-12-18,3,3,draw,3.0,1773.88,CONMEBOL,4.0,1759.78,UEFA,1.0,14.100000000000136,67.99343846153849,69.714,-1.72056153846151
