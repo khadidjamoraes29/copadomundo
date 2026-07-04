@@ -1,0 +1,34 @@
+[
+  {
+    "team": "Argentina",
+    "club_id": "3437"
+  },
+  {
+    "team": "Brazil",
+    "club_id": "3439"
+  },
+  {
+    "team": "England",
+    "club_id": "3299"
+  },
+  {
+    "team": "France",
+    "club_id": "3377"
+  },
+  {
+    "team": "Germany",
+    "club_id": "3262"
+  },
+  {
+    "team": "Netherlands",
+    "club_id": "3379"
+  },
+  {
+    "team": "Portugal",
+    "club_id": "3300"
+  },
+  {
+    "team": "Spain",
+    "club_id": "3375"
+  }
+]
