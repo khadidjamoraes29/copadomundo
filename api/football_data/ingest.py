@@ -89,6 +89,7 @@ def _write_csv(rows: list[dict[str, Any]], output_path: Path) -> None:
 
 
 def ingest_competition(
+    client: FootballDataClient,
     competition_code: str,
     season: int | None,
     raw_dir: Path,
@@ -98,7 +99,6 @@ def ingest_competition(
     status: str | None = None,
     stage: str | None = None,
 ) -> tuple[Path, Path]:
-    client = FootballDataClient()
     raw_dir.mkdir(parents=True, exist_ok=True)
     processed_dir.mkdir(parents=True, exist_ok=True)
 
@@ -127,7 +127,12 @@ def ingest_competition(
 
 def main() -> None:
     parser = argparse.ArgumentParser(description="Ingest free-tier data from football-data.org.")
-    parser.add_argument("--competition", required=True, help="Competition code like WC, PL, BSA, CL, EC.")
+    parser.add_argument(
+        "--competition",
+        required=True,
+        action="append",
+        help="Competition code like WC, PL, BSA, CL, EC. Repeat the flag to ingest multiple competitions.",
+    )
     parser.add_argument("--season", type=int, default=None, help="Season year accepted by the API.")
     parser.add_argument("--date-from", default=None, help="Filter matches from date YYYY-MM-DD.")
     parser.add_argument("--date-to", default=None, help="Filter matches until date YYYY-MM-DD.")
@@ -137,18 +142,21 @@ def main() -> None:
     parser.add_argument("--processed-dir", default="data/processed")
     args = parser.parse_args()
 
-    matches_path, teams_path = ingest_competition(
-        competition_code=args.competition,
-        season=args.season,
-        raw_dir=Path(args.raw_dir),
-        processed_dir=Path(args.processed_dir),
-        date_from=args.date_from,
-        date_to=args.date_to,
-        status=args.status,
-        stage=args.stage,
-    )
-    print(f"Wrote {matches_path}")
-    print(f"Wrote {teams_path}")
+    client = FootballDataClient()
+    for competition_code in args.competition:
+        matches_path, teams_path = ingest_competition(
+            client=client,
+            competition_code=competition_code,
+            season=args.season,
+            raw_dir=Path(args.raw_dir),
+            processed_dir=Path(args.processed_dir),
+            date_from=args.date_from,
+            date_to=args.date_to,
+            status=args.status,
+            stage=args.stage,
+        )
+        print(f"Wrote {matches_path}")
+        print(f"Wrote {teams_path}")
 
 
 if __name__ == "__main__":
